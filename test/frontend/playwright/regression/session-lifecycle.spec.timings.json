@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/session-lifecycle.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:36:57.507Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 5.515,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.631,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:57.507Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 3.884,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:59.142Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:05:00.593Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 4.091,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.389,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:05:00.593Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 2.702,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:05:01.986Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:38:31.920Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 3.4400000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.22,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:31.920Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 2.22,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:33.145Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:27:22.538Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 3.508,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.26,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:22.538Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 2.248,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:23.803Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:30:13.829Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 3.429,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.242,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:13.829Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 2.187,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:15.076Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:30:34.094Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 3.512,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.255,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:34.094Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 2.257,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:35.352Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:14:49.685Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 3.149,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.118,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:49.685Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 2.031,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:50.810Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:40:43.102Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 3.1590000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2ab7d91180d80503c373-e6e78a4a0cc1d87f12e8",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › sign out routes through the /logout link, and a direct /logout visit signs out too",
+          "durationSeconds": 1.116,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:43.102Z"
+        },
+        {
+          "testId": "2ab7d91180d80503c373-1ea588595c5fcd06726d",
+          "title": "chromium › session-lifecycle.spec.ts › session lifecycle (addendum-097) › signing in on a second device invalidates the first session and auto-signs-out the first device",
+          "durationSeconds": 2.043,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:44.223Z"
+        }
+      ]
+    }
+  ]
+}

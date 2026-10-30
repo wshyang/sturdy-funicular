@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/cluster-team-reorg.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:11:57.499Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 20.272,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 20.272,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:57.499Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:16:48.873Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 10.495,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 10.495,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:16:48.873Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:20:12.760Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 17.482,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.586,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:20:12.760Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 7.896,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:20:22.350Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:26:30.634Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 17.831,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.519,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:30.634Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.312,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:40.157Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:53:16.912Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 20.246000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 11.413,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:53:16.912Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.833,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:53:28.331Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:52:38.490Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 18.095,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.404,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:38.490Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.691,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:47.899Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:43:08.698Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 17.298000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.136,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:43:08.698Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.162,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:43:17.838Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:02:31.001Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 17.68,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.622,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:31.001Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.058,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:40.628Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:11:16.395Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 19.158,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.072,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:11:16.395Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 10.086,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:11:25.472Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:20:32.253Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 19.371000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.38,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:32.253Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 9.991,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:41.638Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:51:14.587Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 20.055,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.581,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:51:14.587Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 10.474,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:51:24.173Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:06:39.990Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 19.119999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.369,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:39.990Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 9.751,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:49.364Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:26:44.736Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 21.394,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 11.115,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:26:44.736Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 10.279,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:26:55.856Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:54:50.528Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 19.427,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.479,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:54:50.528Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 9.948,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:55:00.012Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:28:21.999Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 19.613,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 10.576,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:21.999Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 9.037,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:32.580Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:18:46.327Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 17.122,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.016,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:46.327Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.106,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:55.347Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:21:32.091Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 17.496000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.391,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:32.091Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.105,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:41.487Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:21:29.880Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 17.844,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 9.456,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:29.880Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 8.388,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:39.340Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:50.155Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:50.155Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:50.516Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:05:27.622Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 31.977000000000004,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 16.007,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:05:27.622Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 15.97,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:05:44.377Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:31:21.181Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 31.996,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5ecad4aa9b0b3f16a049-728f731408aaa99e6150",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › create cluster, migrate a member, promote/demote, and delete the emptied resources",
+          "durationSeconds": 15.956,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:31:21.181Z"
+        },
+        {
+          "testId": "5ecad4aa9b0b3f16a049-c6ea89031368ca78dc53",
+          "title": "chromium › cluster-team-reorg.spec.ts › cluster & team reorganization flow › CSV roster bulk-add: template, staged resolution flags, sequential adds of the valid rows only",
+          "durationSeconds": 16.04,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:31:37.872Z"
+        }
+      ]
+    }
+  ]
+}

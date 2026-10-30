@@ -1,0 +1,462 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/security-headers.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:36:44.902Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 7.195999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.503,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:44.902Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.319,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:45.410Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 1.257,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:45.734Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 1.295,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:46.995Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 2.932,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:48.295Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.89,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:51.232Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:04:47.325Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 4.143,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.533,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:47.325Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.322,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:47.863Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 0.819,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:48.189Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 0.928,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:49.012Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 0.756,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:49.945Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.785,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:50.706Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:38:24.379Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 3.0919999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.435,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:24.379Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.009,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:24.820Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 0.611,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:24.832Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 0.766,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:25.447Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 0.633,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:26.219Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.638,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:26.857Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:27:15.029Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 3.1450000000000005,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.448,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:15.029Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.009,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:15.482Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 0.649,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:15.494Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 0.759,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:16.146Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 0.629,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:16.910Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.651,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:17.543Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:30:06.304Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 3.14,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.466,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:06.304Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.009,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:06.774Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 0.592,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:06.786Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 0.792,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:07.382Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 0.653,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:08.178Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.628,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:08.835Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:30:25.972Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 3.5409999999999995,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.431,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:25.972Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.008,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:26.407Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 0.702,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:26.419Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 0.893,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:27.125Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 0.799,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:28.023Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.708,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:28.826Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:14:40.943Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 3.524,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.437,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:40.943Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.416,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:41.492Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 0.601,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:41.914Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 0.716,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:42.524Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 0.6,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:43.246Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.754,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:43.851Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:40:34.314Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 3.5250000000000004,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "9e3ea47c3dd308804f1b-3c8784eec1f924967e82",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › served HTML carries the dev CSP and the non-HSTS header set",
+          "durationSeconds": 0.414,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:34.314Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-1fc14ca10b44cef82ee9",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › API responses carry no-store and no HSTS over http",
+          "durationSeconds": 0.414,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:34.825Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-80549c28d3b18fc2adb2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › after login the session cookie is HttpOnly SameSite=Lax and localStorage has no session",
+          "durationSeconds": 0.559,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:35.244Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-2181f3342b6b22a4e7f6",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › a browser request still authenticates across a page reload (cookie persists)",
+          "durationSeconds": 0.769,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:35.812Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-5d2bf1ab4484802e55e2",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › CSRF double-submit: mutation without X-CSRF-Token is rejected when the cookie is present",
+          "durationSeconds": 0.605,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:36.586Z"
+        },
+        {
+          "testId": "9e3ea47c3dd308804f1b-c9f23b1459c5294f3c46",
+          "title": "chromium › security-headers.spec.ts › security headers & HttpOnly session (dev/http posture) › logout clears the session cookie and sends Clear-Site-Data",
+          "durationSeconds": 0.764,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:37.196Z"
+        }
+      ]
+    }
+  ]
+}

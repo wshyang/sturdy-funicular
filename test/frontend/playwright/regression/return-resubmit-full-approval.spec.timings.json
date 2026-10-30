@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/return-resubmit-full-approval.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:15:40.129Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 47.612,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 47.347,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:15:40.129Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 0.265,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:16:31.301Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:35:18.343Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 42.391,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 30.915,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:35:18.343Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 11.476,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:35:49.263Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:03:07.219Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 39.845,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 31.275,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:03:07.219Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 8.57,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:03:38.499Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:37:15.602Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 39.058,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 30.409,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:37:15.602Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 8.649,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:37:46.016Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:26:07.651Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 38.336,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 29.761,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:26:07.651Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 8.575,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:26:37.418Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:28:53.944Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 38.057,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 30.04,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:28:53.944Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 8.017,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:29:23.989Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:29:13.222Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 37.101,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 29.144,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:29:13.222Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 7.957,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:29:42.371Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:13:24.619Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 16.1,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 15.987,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:13:24.619Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 0.113,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:13:41.336Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:39:18.027Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.137,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-7658ff9a9356cdb78c33",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › four requests, each returned from a different approval level, are all resubmitted by the submitter",
+          "durationSeconds": 16.031,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:39:18.027Z"
+        },
+        {
+          "testId": "6ecd4e6b5b473c5be0a5-0b795f23181ddf8afba6",
+          "title": "chromium › return-resubmit-full-approval.spec.ts › return-to-engineer from every chain level, resubmit, full approval › all four resubmitted requests proceed through the full chain to the system owner",
+          "durationSeconds": 0.106,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:39:34.786Z"
+        }
+      ]
+    }
+  ]
+}

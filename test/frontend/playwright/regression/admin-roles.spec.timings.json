@@ -1,0 +1,380 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-roles.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:04:40.799Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 1.242,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.242,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:40.799Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:11:33.978Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 1.493,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.493,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:33.978Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:16:27.742Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 1.122,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.122,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:16:27.742Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:19:53.348Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 1.288,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.288,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:53.348Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:26:11.076Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 1.165,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.165,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:11.076Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:52:52.766Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 1.194,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.194,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:52:52.766Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:52:18.466Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 1.219,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.219,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:18.466Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:42:48.758Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 1.231,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.231,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:48.758Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:02:11.493Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 1.146,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.146,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:11.493Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:10:57.114Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 1.128,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.128,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:10:57.114Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:20:12.932Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 1.123,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.123,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:12.932Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:50:54.960Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 1.122,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.122,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:54.960Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:06:20.745Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 1.183,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.183,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:20.745Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:26:18.168Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 1.276,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.276,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:26:18.168Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:54:31.315Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 1.16,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.16,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:54:31.315Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:28:00.391Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 1.147,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.147,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:00.391Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:18:28.315Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 1.02,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.02,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:28.315Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:21:13.882Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 1.007,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.007,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:13.882Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:21:11.237Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 1.032,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 1.032,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:11.237Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:48.070Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:48.070Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:04:27.890Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 10.499,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 10.499,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:04:27.890Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:30:21.318Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 10.509,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0dcf0207ef8a503ecbc9-dd67a965d87d30dd76ac",
+          "title": "chromium › admin-roles.spec.ts › admin roles tab › lists system roles immutably and creates + deletes a custom role",
+          "durationSeconds": 10.509,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:30:21.318Z"
+        }
+      ]
+    }
+  ]
+}

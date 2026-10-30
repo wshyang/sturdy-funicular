@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/session-expired-spa-recovery.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:36:52.152Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 5.327,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.928,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:52.152Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 1.713,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:54.085Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 0.936,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:55.802Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.75,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:56.743Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:04:51.524Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 9.036999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.909,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:51.524Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 2.481,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:53.438Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 3.87,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:55.924Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.777,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:59.798Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:38:27.505Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 4.392,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.588,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:27.505Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 1.342,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:29.098Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 0.879,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:30.444Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.583,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:31.328Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:27:18.204Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 4.312,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.544,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:18.204Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 1.37,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:19.753Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 0.802,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:21.127Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.596,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:21.934Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:30:09.481Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 4.319,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.532,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:09.481Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 1.315,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:11.017Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 0.847,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:12.338Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.625,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:13.190Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:30:29.543Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 4.529,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.63,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:29.543Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 1.502,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:31.177Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 0.846,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:32.684Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.551,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:33.534Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:14:45.087Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 4.478,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.773,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:45.087Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 1.281,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:46.959Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 0.896,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:48.246Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.528,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:49.147Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:40:38.431Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 4.553999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8019147c96f2430c921b-8eb7b73c71d32b8a41cc",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a dead session cookie falls through to the SPA and clears the cookie",
+          "durationSeconds": 1.971,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:38.431Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-2f31c0f2e78a8694192a",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same dead session presented API-style keeps the 401 session_expired signal",
+          "durationSeconds": 1.287,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:40.497Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-5f98e71c68f14183ea73",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › document navigation with a live mid-2FA session falls through WITHOUT clearing the cookie (addendum-128)",
+          "durationSeconds": 0.762,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:41.790Z"
+        },
+        {
+          "testId": "8019147c96f2430c921b-0b31d179782362bfbd48",
+          "title": "chromium › session-expired-spa-recovery.spec.ts › session-expired SPA recovery (addendum-108) › the same live mid-2FA session presented API-style keeps the 403 twofa_required signal (addendum-128)",
+          "durationSeconds": 0.534,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:42.557Z"
+        }
+      ]
+    }
+  ]
+}

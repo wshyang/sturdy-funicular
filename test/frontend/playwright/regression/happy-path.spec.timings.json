@@ -1,0 +1,363 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/happy-path.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T21:23:17.245Z-79607",
+      "startedAt": "2026-08-18T21:23:26.783Z",
+      "finishedAt": "2026-08-18T21:24:48.469Z",
+      "totalSeconds": 75.656,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 75.656,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:23:26.783Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:30:54.749Z-95120",
+      "startedAt": "2026-08-18T21:31:04.900Z",
+      "finishedAt": "2026-08-18T21:31:58.021Z",
+      "totalSeconds": 48.313,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 48.313,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:31:04.900Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:33:55.735Z-673",
+      "startedAt": "2026-08-18T21:34:07.311Z",
+      "finishedAt": "2026-08-18T21:35:17.996Z",
+      "totalSeconds": 67.266,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 67.266,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:34:07.311Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:44:59.068Z-15130",
+      "startedAt": "2026-08-18T21:45:06.491Z",
+      "finishedAt": "2026-08-18T21:45:25.210Z",
+      "totalSeconds": 17.144,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 17.144,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:45:06.491Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:55:49.356Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 38.224,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 38.224,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:49.356Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:54:57.465Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 39.043,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 39.043,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:57.465Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:45:30.141Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 36.319,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 36.319,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:30.141Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:04:52.463Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 17.629,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 17.629,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:52.463Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:13:30.132Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 36.271,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 36.271,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:30.132Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:22:57.004Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 36.558,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 36.558,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:57.004Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:09:04.357Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 36.538,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 36.538,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:04.357Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:12.778Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 36.655,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 36.655,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:12.778Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:57:04.931Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 36.552,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 36.552,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:04.931Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:30:51.049Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 38.319,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 38.319,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:51.049Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:20:33.837Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 36.401,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 36.401,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:33.837Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:23:19.540Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 35.352,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 35.352,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:19.540Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:23:18.818Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 35.717,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 35.717,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:18.818Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:55.859Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:55.859Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:07:04.281Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.902,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 15.902,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:04.281Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:17:00.810Z-5094",
+      "startedAt": "2026-10-28T17:17:02.389Z",
+      "finishedAt": "2026-10-28T17:17:19.538Z",
+      "totalSeconds": 16.559,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 16.559,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:17:02.389Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:32:57.761Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.924,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "193f4027a814d80785cd-8bdcdde2b29c9a346d7a",
+          "title": "chromium › happy-path.spec.ts › multi-actor happy-path request lifecycle › signup -> admin setup -> full request lifecycle with visibility matrix",
+          "durationSeconds": 15.924,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:57.761Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/owner-statistics.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:25:00.395Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 14.729,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 14.729,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:25:00.395Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:11:08.317Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 14.641,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 14.641,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:11:08.317Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:31:23.226Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 15.312,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 15.312,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:31:23.226Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:59:25.573Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 14.693,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 14.693,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:59:25.573Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:33:13.018Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 15.221,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 15.221,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:33:13.018Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:22:36.470Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 14.452,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 14.452,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:22:36.470Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:25:19.260Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 14.591,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 14.591,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:25:19.260Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:25:33.572Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 14.959,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 14.959,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:25:33.572Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:09:41.287Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.985,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 15.985,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:09:41.287Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:35:34.356Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.96,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6c9649ffbc34b906f9be-b875cec1983b28c0fb23",
+          "title": "chromium › owner-statistics.spec.ts › owner statistics tab › pie/bar charts render for by-system and by-hostname breakdowns",
+          "durationSeconds": 15.96,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:35:34.356Z"
+        }
+      ]
+    }
+  ]
+}

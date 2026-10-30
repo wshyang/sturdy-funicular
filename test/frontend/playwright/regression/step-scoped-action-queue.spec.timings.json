@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/step-scoped-action-queue.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:37:16.773Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 46.938,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 24.486,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:37:16.773Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 22.452,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:37:41.263Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:05:17.987Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 46.555,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 22.012,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:05:17.987Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 24.543,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:05:40.004Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:38:47.817Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 42.78,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 21.737,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:47.817Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 21.043,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:39:09.559Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:27:38.446Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 41.934,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 21.183,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:38.446Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 20.751,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:59.634Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:30:30.603Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 46.976,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 23.731,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:30.603Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 23.245,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:54.339Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:30:50.687Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 47.418,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 23.904,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:50.687Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 23.514,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:31:14.595Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:15:10.034Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 32.003,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 15.991,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:15:10.034Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 16.012,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:15:26.788Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:41:03.419Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 31.948,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5420a5d0336133501642-7a01b910d2e2a19a0df2",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L1 with an admin grant: only the own-step row glows and is actionable; below/above rows are inert",
+          "durationSeconds": 15.947,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:41:03.419Z"
+        },
+        {
+          "testId": "5420a5d0336133501642-ac21fbeb64f7c601bf4c",
+          "title": "chromium › step-scoped-action-queue.spec.ts › step-scoped action queue for admin+reviewer users (addendum-096) › agency L2 with an admin grant: symmetric coverage from the above side — only the own-step row glows",
+          "durationSeconds": 16.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:41:20.105Z"
+        }
+      ]
+    }
+  ]
+}

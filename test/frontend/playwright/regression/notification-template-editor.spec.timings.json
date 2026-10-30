@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/notification-template-editor.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:24:00.188Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.2,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "662b5d0f8cc947c13309-a7837bd1963e8a4b814a",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › an XSS payload saved through Source is sanitized, persisted, and never executes in Preview",
+          "durationSeconds": 1.298,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:00.188Z"
+        },
+        {
+          "testId": "662b5d0f8cc947c13309-db06cdaa469f78f1d9d2",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › the Rich contentEditable flows into Source and Plain views without tags",
+          "durationSeconds": 0.902,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:01.490Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:24:00.951Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.301,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "662b5d0f8cc947c13309-a7837bd1963e8a4b814a",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › an XSS payload saved through Source is sanitized, persisted, and never executes in Preview",
+          "durationSeconds": 1.295,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:00.951Z"
+        },
+        {
+          "testId": "662b5d0f8cc947c13309-db06cdaa469f78f1d9d2",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › the Rich contentEditable flows into Source and Plain views without tags",
+          "durationSeconds": 1.006,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:02.250Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:58.172Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "662b5d0f8cc947c13309-a7837bd1963e8a4b814a",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › an XSS payload saved through Source is sanitized, persisted, and never executes in Preview",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:58.172Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:07:42.586Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 20.155,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "662b5d0f8cc947c13309-a7837bd1963e8a4b814a",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › an XSS payload saved through Source is sanitized, persisted, and never executes in Preview",
+          "durationSeconds": 11.578,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:42.586Z"
+        },
+        {
+          "testId": "662b5d0f8cc947c13309-db06cdaa469f78f1d9d2",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › the Rich contentEditable flows into Source and Plain views without tags",
+          "durationSeconds": 8.577,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:54.785Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:33:36.097Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 20.159,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "662b5d0f8cc947c13309-a7837bd1963e8a4b814a",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › an XSS payload saved through Source is sanitized, persisted, and never executes in Preview",
+          "durationSeconds": 11.575,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:36.097Z"
+        },
+        {
+          "testId": "662b5d0f8cc947c13309-db06cdaa469f78f1d9d2",
+          "title": "chromium › notification-template-editor.spec.ts › notification template editor (addendum-044 / addendum-193 F-26) › the Rich contentEditable flows into Source and Plain views without tags",
+          "durationSeconds": 8.584,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:48.291Z"
+        }
+      ]
+    }
+  ]
+}

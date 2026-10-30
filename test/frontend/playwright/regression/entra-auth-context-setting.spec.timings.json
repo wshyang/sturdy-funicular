@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/entra-auth-context-setting.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:55:36.180Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 1.649,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 1.649,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:36.180Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:54:48.153Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 0.946,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 0.946,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:48.153Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:45:16.596Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 4.421,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 4.421,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:16.596Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:04:40.236Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 3.249,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 3.249,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:40.236Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:13:17.304Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 1.218,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 1.218,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:17.304Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:22:44.798Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 1.062,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 1.062,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:44.798Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:08:51.890Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 3.244,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 3.244,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:51.890Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:03.212Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 1.076,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 1.076,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:03.212Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:56:51.646Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 1.152,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 1.152,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:51.646Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:30:38.518Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 1.739,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 1.739,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:38.518Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:20:25.876Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 0.882,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 0.882,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:25.876Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:23:11.758Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 0.899,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 0.899,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:11.758Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:23:10.738Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 0.896,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 0.896,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:10.738Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:52.245Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:52.245Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:06:36.654Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 10.805,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 10.805,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:36.654Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:32:30.234Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 10.812,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4015d568f7c96a4e4740-45bea502f77243b209ac",
+          "title": "chromium › entra-auth-context-setting.spec.ts › entra sso auth-context setting — regression › renders under Entra with a greyed example placeholder, saves and clears",
+          "durationSeconds": 10.812,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:30.234Z"
+        }
+      ]
+    }
+  ]
+}

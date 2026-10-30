@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/owner-pending-count.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:14:45.405Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 21.474,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 21.474,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:45.405Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:24:12.365Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 48.007,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 48.007,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:24:12.365Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:10:23.662Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 44.622,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 44.622,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:10:23.662Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:30:29.435Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 53.726,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 53.726,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:30:29.435Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:58:37.073Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 48.141,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 48.141,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:58:37.073Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:32:25.405Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 47.261,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 47.261,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:32:25.405Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:21:47.054Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 49.396,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 49.396,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:47.054Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:24:36.723Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 42.497,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 42.497,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:36.723Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:24:43.539Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 50.014,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 50.014,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:43.539Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:09:21.151Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 19.348,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 19.348,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:09:21.151Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:35:14.803Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 18.747,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8eea3a91757d47c771c6-97d75d19016a297073e8",
+          "title": "chromium › owner-pending-count.spec.ts › randomized multi-system volume + owner/backup-owner pending-count verification › 3 systems, random structure, random owners, flooded requests, verified pending counts",
+          "durationSeconds": 18.747,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:35:14.803Z"
+        }
+      ]
+    }
+  ]
+}

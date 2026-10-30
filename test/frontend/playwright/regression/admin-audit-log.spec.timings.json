@@ -1,0 +1,771 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-audit-log.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:24:41.387Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 1.058,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.058,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:41.387Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:51:37.086Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 1.013,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.013,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:51:37.086Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:53:08.153Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 1.006,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.006,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:53:08.153Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:06:25.051Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 1.121,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.121,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:06:25.051Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:27:00.287Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 1.081,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.081,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:27:00.287Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:43:20.813Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 1.241,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.241,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:43:20.813Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:54:04.208Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 1.106,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.106,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:54:04.208Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:41.566Z-46218",
+      "startedAt": "2026-08-18T18:22:44.288Z",
+      "finishedAt": "2026-08-18T18:22:51.808Z",
+      "totalSeconds": 1.206,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.206,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:44.288Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:33:05.790Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 1.174,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.174,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:33:05.790Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:42:37.919Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 1.151,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.151,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:37.919Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:44:09.870Z-70607",
+      "startedAt": "2026-08-18T18:45:08.185Z",
+      "finishedAt": "2026-08-18T18:45:10.338Z",
+      "totalSeconds": 1.832,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.832,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:45:08.185Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:00:00.000Z-80001",
+      "startedAt": "2026-08-18T19:00:01.000Z",
+      "finishedAt": "2026-08-18T19:00:05.000Z",
+      "totalSeconds": 4,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 4,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:00:01.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:01:00.000Z-80002",
+      "startedAt": "2026-08-18T19:01:01.000Z",
+      "finishedAt": "2026-08-18T19:01:05.000Z",
+      "totalSeconds": 4,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 4,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:01:01.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:00.000Z-80003",
+      "startedAt": "2026-08-18T19:02:01.000Z",
+      "finishedAt": "2026-08-18T19:02:05.000Z",
+      "totalSeconds": 4,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 4,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:01.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:03:00.000Z-80004",
+      "startedAt": "2026-08-18T19:03:01.000Z",
+      "finishedAt": "2026-08-18T19:03:05.000Z",
+      "totalSeconds": 4,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 4,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:01.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:04:00.000Z-80005",
+      "startedAt": "2026-08-18T19:04:01.000Z",
+      "finishedAt": "2026-08-18T19:04:05.000Z",
+      "totalSeconds": 4,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 4,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:01.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:48:15.887Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 3.014,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 3.014,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:48:15.887Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:03:37.823Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 1.219,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.219,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:37.823Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:10:30.826Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 1.173,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.173,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:10:30.826Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:15:26.703Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 1.193,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.193,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:26.703Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:18:48.195Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 1.208,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.208,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:48.195Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:25:06.983Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 1.16,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.16,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:25:06.983Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:22:11.585Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 1.3,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.3,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:22:11.585Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:51:46.241Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 1.261,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.261,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:46.241Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:03:39.438Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 1.25,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.25,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:03:39.438Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:11:31.877Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 1.337,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.337,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:11:31.877Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:51:06.821Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 1.299,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.299,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:51:06.821Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:30:43.368Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 1.226,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.226,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:30:43.368Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:37:31.540Z-66401",
+      "startedAt": "2026-08-19T12:38:48.701Z",
+      "finishedAt": "2026-08-19T12:38:54.306Z",
+      "totalSeconds": 1.771,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.771,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:38:48.701Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:41:46.386Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 1.265,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.265,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:41:46.386Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:01:06.975Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 1.179,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.179,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:01:06.975Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:09:52.517Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 1.242,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.242,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:52.517Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:19:08.997Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 1.293,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.293,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:19:08.997Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:49:36.181Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 3.558,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 3.558,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:49:36.181Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:57:42.902Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 2.928,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 2.928,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:57:42.902Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:05:18.481Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 1.167,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.167,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:18.481Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:25:09.927Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 2.183,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 2.183,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:09.927Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:53:28.513Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 1.179,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.179,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:28.513Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:26:58.403Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 1.188,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.188,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:58.403Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:17:27.659Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 1.05,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.05,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:27.659Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:20:13.853Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 1.305,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.305,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:13.853Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:20:11.343Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 1.245,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 1.245,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:11.343Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:45.611Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:45.611Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:02:46.340Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 10.94,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 10.94,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:02:46.340Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:28:39.759Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 10.912,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6a7d5dfbfb63600a1d02-c324514a99a98fc17a3b",
+          "title": "chromium › admin-audit-log.spec.ts › admin audit-log tab › records an audited mutation and renders/filters it in the audit log",
+          "durationSeconds": 10.912,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:28:39.759Z"
+        }
+      ]
+    }
+  ]
+}

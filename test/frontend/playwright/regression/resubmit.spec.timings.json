@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/resubmit.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:15:25.227Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 14.835,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 14.835,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:15:25.227Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:35:02.688Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 15.45,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 15.45,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:35:02.688Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:02:52.265Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 14.896,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 14.896,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:02:52.265Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:37:00.472Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 15.115,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 15.115,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:37:00.472Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:25:52.480Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 15.156,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 15.156,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:25:52.480Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:28:38.678Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 15.23,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 15.23,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:28:38.678Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:28:57.419Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 15.789,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 15.789,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:28:57.419Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:13:07.922Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.958,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 15.958,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:13:07.922Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:39:01.215Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.061,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "1de23f2c673a662e32a9-c3bcee909f9433e713d4",
+          "title": "chromium › resubmit.spec.ts › resubmit after return › vendor resubmits a returned_to_vendor request via the pre-filled form",
+          "durationSeconds": 16.061,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:39:01.215Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/request-detail-view.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:15:00.540Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 24.404,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 24.404,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:15:00.540Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:34:37.778Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 24.619,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 24.619,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:34:37.778Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:02:28.336Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 23.811,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 23.811,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:02:28.336Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:36:34.642Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 25.616,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 25.616,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:36:34.642Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:25:29.822Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 22.643,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 22.643,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:25:29.822Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:28:14.825Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 23.764,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 23.764,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:28:14.825Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:28:33.465Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 23.925,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 23.925,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:28:33.465Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:12:51.207Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.973,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 15.973,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:12:51.207Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:38:44.464Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.94,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "c47f68dcd33197289809-b5e94be11aae02a89a3c",
+          "title": "chromium › request-detail-view.spec.ts › RequestDetailView action branching and password retrieval › full reviewer action matrix, rejection-notes validation, approval progression, password retrieval gate, and issue/close",
+          "durationSeconds": 15.94,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:38:44.464Z"
+        }
+      ]
+    }
+  ]
+}

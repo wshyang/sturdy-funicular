@@ -1,0 +1,381 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/harness-observability.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:56:27.814Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 0.9989999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.568,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:56:27.814Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.431,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:56:28.387Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:55:36.536Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 1.138,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.582,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:55:36.536Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.556,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:55:37.125Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:46:06.624Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 1.2269999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.571,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:06.624Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.656,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:07.199Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:14:06.558Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 1.014,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.546,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:06.558Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.468,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:07.109Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:23:33.594Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 1.057,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.524,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:33.594Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.533,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:34.123Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:09:41.618Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 3.624,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.944,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:41.618Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 2.68,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:42.567Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:49.568Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 0.9909999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.57,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:49.568Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.421,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:50.143Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:57:41.636Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 0.986,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.544,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:41.636Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.442,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:42.185Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:31:29.534Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 1.144,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.564,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:29.534Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.58,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:30.103Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:21:10.301Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 0.84,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.42,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:10.301Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.42,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:10.725Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:23:55.010Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 0.8220000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.431,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:55.010Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.391,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:55.445Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:23:54.575Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 1.9869999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 1.567,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:54.575Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.42,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:56.147Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:56.177Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:56.177Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:56.490Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:07:20.770Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 0.8600000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.454,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:20.770Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.406,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:21.330Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:33:14.282Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 0.8300000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0a0968626a6382b197a8-c48261660c97fa360f54",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1+P2: buffers collect page activity; bundle(label) writes a complete bundle",
+          "durationSeconds": 0.436,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:14.282Z"
+        },
+        {
+          "testId": "0a0968626a6382b197a8-605d0f4eb1b4e12168d4",
+          "title": "chromium › harness-observability.spec.ts › harness observability (addendum-105) › P1: expectCleanConsole passes clean, throws on injected errors, allowlists both ways",
+          "durationSeconds": 0.394,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:14.822Z"
+        }
+      ]
+    }
+  ]
+}

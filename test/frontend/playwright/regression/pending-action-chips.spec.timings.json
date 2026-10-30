@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/pending-action-chips.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:25:15.164Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 38.001000000000005,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 13.541,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:25:15.164Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 24.46,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:25:28.709Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:11:23.001Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 25.755000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 13.314,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:11:23.001Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 12.441,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:11:36.320Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:31:38.777Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 26.017,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 13.314,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:31:38.777Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 12.703,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:31:52.096Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:59:40.316Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 26.758,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 13.751,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:59:40.316Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 13.007,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:59:54.071Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:33:28.278Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 27.524,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 14.037,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:33:28.278Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 13.487,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:33:42.320Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:22:50.934Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 25.912,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 13.008,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:22:50.934Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 12.904,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:23:03.947Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:25:33.877Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 25.785,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 12.844,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:25:33.877Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 12.941,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:25:46.726Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:25:48.543Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 25.993000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 12.679,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:25:48.543Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 13.314,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:26:01.226Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:09:58.023Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 32.099000000000004,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 16.062,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:09:58.023Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 16.037,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:10:14.815Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:35:51.059Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 32.007,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8bb5543145cc83069e9d-2f1739945ef04954a90a",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › review chip: server cue on the right row, click-through to the request, step handoff empties and re-labels",
+          "durationSeconds": 16.014,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:35:51.059Z"
+        },
+        {
+          "testId": "8bb5543145cc83069e9d-3aef416d3c8cf3b8055d",
+          "title": "chromium › pending-action-chips.spec.ts › pending-action chips on dashboard rows (addendum-196) › return decision lands \"Revise and resubmit\" on the requester row only",
+          "durationSeconds": 15.993,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:36:07.796Z"
+        }
+      ]
+    }
+  ]
+}

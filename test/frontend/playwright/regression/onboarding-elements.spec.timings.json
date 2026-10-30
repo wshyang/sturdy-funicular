@@ -1,0 +1,244 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/onboarding-elements.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:56:33.665Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 11.581,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 11.581,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:56:33.665Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:55:40.376Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 17.566,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 17.566,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:55:40.376Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:46:12.488Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 2.632,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.632,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:12.488Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:14:10.813Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 4.1,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 4.1,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:10.813Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:23:37.292Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 2.874,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.874,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:37.292Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:09:47.772Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 2.699,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.699,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:47.772Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:56.090Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 2.876,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.876,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:56.090Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:57:45.249Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 2.843,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.843,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:45.249Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:31:33.574Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 4.875,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 4.875,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:33.574Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:21:13.550Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.555,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.555,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:13.550Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:24:02.406Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.673,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.673,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:02.406Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:24:03.265Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.59,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 2.59,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:03.265Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:08:03.973Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 19.992,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 19.992,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:08:03.973Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:33:57.490Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 19.995,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "6d3154530cd074cff660-780d93fdbc790b0a4aef",
+          "title": "chromium › onboarding-elements.spec.ts › §A onboarding elements — invite client gate + 2FA gate affordances › invite confirm-mismatch refused client-side; enroll strips junk and re-arms after a wrong code; both gate cancels log out",
+          "durationSeconds": 19.995,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:57.490Z"
+        }
+      ]
+    }
+  ]
+}

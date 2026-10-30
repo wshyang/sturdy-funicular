@@ -1,0 +1,748 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-pending-actions.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:27:15.877Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 32.172,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 12.789,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:27:15.877Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 19.383,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:27:28.671Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:54:19.860Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 33.619,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.32,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:54:19.860Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 20.299,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:54:33.184Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:33:21.916Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 23.869,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.582,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:33:21.916Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.287,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:33:35.502Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:42:53.437Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 24.435000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.602,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:53.437Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.833,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:43:07.043Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:48:37.209Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 26.58,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 15.174,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:48:37.209Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 11.406,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:48:52.387Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:03:53.496Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 24.287,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.593,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:53.496Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.694,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:07.093Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:10:47.524Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 24.387,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.41,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:10:47.524Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.977,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:00.989Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:15:42.195Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 23.938000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.49,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:42.195Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.448,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:55.689Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:19:04.345Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 24.950000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.935,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:04.345Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 11.015,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:18.284Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:25:24.309Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 24.616999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.805,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:25:24.309Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.812,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:25:38.119Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:52:05.520Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 24.913,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 14.109,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:52:05.520Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.804,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:52:19.849Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:51:26.538Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 27.063000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 14.798,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:51:26.538Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 12.265,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:51:41.340Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:31:00.877Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 21.672,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 21.672,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:31:00.877Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:36:45.341Z-65708",
+      "startedAt": "2026-08-19T12:36:51.394Z",
+      "finishedAt": "2026-08-19T12:37:20.233Z",
+      "totalSeconds": 27.492,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 16.631,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:36:51.394Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.861,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:09.201Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:42:02.127Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 24.695,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.807,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:02.127Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.888,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:15.939Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:01:23.922Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 23.859,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.543,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:01:23.922Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.316,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:01:37.470Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:10:08.701Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 23.603,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.09,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:10:08.701Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.513,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:10:21.795Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:19:25.343Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 24.008,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.238,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:19:25.343Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.77,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:19:38.585Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:50:09.867Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 23.404,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.108,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:09.867Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.296,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:22.981Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:58:30.967Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 54.178,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 31.497,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:58:30.967Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 22.681,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:59:12.952Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:05:34.009Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 23.753999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.03,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:34.009Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.724,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:47.043Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:25:31.047Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 24.573,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.854,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:31.047Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.719,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:44.905Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:53:44.059Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 24.31,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.822,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:44.059Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.488,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:57.885Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:27:14.441Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 24.435000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.233,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:27:14.441Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 11.202,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:27:27.679Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:17:41.978Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 23.555999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.385,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:41.978Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.171,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:55.367Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:20:28.938Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 23.509999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.556,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:28.938Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 9.954,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:42.499Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:20:26.168Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 23.689999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 13.025,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:26.168Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 10.665,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:39.198Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:46.999Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:46.999Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:47.369Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:03:37.693Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 31.982999999999997,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 16.016,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:03:37.693Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 15.967,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:03:54.451Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:29:31.067Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 32.084,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4bfb31dcd2787e6db791-04346a6fc511fb4f59b9",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › debtors are named per user, the ledger names the cue, and ownership moves with the step",
+          "durationSeconds": 16.119,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:29:31.067Z"
+        },
+        {
+          "testId": "4bfb31dcd2787e6db791-dc77cc4cc368109fc5f0",
+          "title": "chromium › admin-pending-actions.spec.ts › admin aggregate pending-actions tab (addendum-196) › empty state is real and the Refresh control re-derives live",
+          "durationSeconds": 15.965,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:29:47.913Z"
+        }
+      ]
+    }
+  ]
+}

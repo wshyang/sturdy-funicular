@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/dashboard-tabs-rendering.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:53:53.665Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 17.677999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 14.774,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:53:53.665Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.904,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:54:08.444Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:53:12.893Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 15.868,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 13.074,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:53:12.893Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.794,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:53:26.107Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:43:41.981Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 15.905999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.722,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:43:41.981Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 3.184,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:43:54.708Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:03:04.339Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 15.609,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.892,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:03:04.339Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.717,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:03:17.236Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:11:52.264Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 15.212,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.517,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:11:52.264Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.695,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:12:04.786Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:21:07.357Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 15.259,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.536,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:21:07.357Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.723,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:21:19.898Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:52:07.535Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 18.152,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 18.152,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:52:07.535Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:07:14.765Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 15.452,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.586,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:07:14.765Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.866,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:07:27.355Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:27:23.728Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 15.266,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.509,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:27:23.728Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.757,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:27:36.242Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:55:25.811Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 15.174999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.363,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:55:25.811Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.812,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:55:38.180Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:29:02.343Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 15.799,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.987,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:29:02.343Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.812,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:29:15.335Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:19:19.220Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 14.981,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.373,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:19:19.220Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.608,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:19:31.598Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:22:04.910Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 15.213999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.424,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:22:04.910Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.79,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:22:17.339Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:22:03.231Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 15.075,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 12.416,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:22:03.231Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 2.659,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:22:15.651Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:51.193Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:51.193Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:51.538Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:06:17.810Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 16.113999999999997,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 16.002,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:17.810Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 0.112,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:34.542Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:32:11.419Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.095,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "087a8e89c583432cb14f-40903fcdbd898a03ca3c",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › admin and owner roles: every tab renders via click-through",
+          "durationSeconds": 15.984,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:11.419Z"
+        },
+        {
+          "testId": "087a8e89c583432cb14f-42610cb7da0137952f7f",
+          "title": "chromium › dashboard-tabs-rendering.spec.ts › role dashboards: every tab reachable via its real UI control › engineer, delegate and team_admin roles: screens render via view controls and the role droplist",
+          "durationSeconds": 0.111,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:28.143Z"
+        }
+      ]
+    }
+  ]
+}

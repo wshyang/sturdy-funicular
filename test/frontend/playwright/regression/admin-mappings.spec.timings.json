@@ -1,0 +1,635 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-mappings.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:24:44.520Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 8.081,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.081,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:44.520Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:51:40.116Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 8.324,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.324,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:51:40.116Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:53:11.230Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 8.145,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.145,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:53:11.230Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:06:28.291Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 8.755,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.755,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:06:28.291Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:27:03.925Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 8.764,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.764,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:27:03.925Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:43:24.344Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 10.418,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 10.418,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:43:24.344Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:54:07.564Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 8.89,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.89,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:54:07.564Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:33:09.693Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 9.038,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.038,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:33:09.693Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:42:41.199Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 8.916,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.916,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:41.199Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:48:21.761Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 10.378,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 10.378,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:48:21.761Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:03:41.329Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 8.782,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.782,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:41.329Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:10:34.257Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 9.794,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.794,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:10:34.257Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:15:30.241Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 8.531,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.531,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:30.241Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:18:51.610Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 9.357,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.357,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:51.610Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:25:10.293Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 10.506,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 10.506,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:25:10.293Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:22:15.739Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 4.977,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 4.977,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:22:15.739Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:51:50.339Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 9.203,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.203,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:50.339Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:03:43.544Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 9.408,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.408,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:03:43.544Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:11:35.520Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 9.033,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.033,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:11:35.520Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:51:12.945Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 9.018,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.018,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:51:12.945Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:30:46.879Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 9.292,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.292,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:30:46.879Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:41:49.937Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 8.812,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.812,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:41:49.937Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:01:10.298Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 8.37,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.37,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:01:10.298Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:09:56.072Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 9.096,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.096,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:56.072Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:19:12.532Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 9.151,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.151,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:19:12.532Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:49:48.967Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 15.562,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 15.562,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:49:48.967Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:57:49.813Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 21.685,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 21.685,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:57:49.813Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:05:21.983Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 8.69,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.69,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:21.983Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:25:16.516Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 11.142,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 11.142,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:16.516Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:53:32.248Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 8.385,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.385,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:32.248Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:27:01.809Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 9.019,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 9.019,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:27:01.809Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:17:30.754Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 8.148,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.148,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:30.754Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:20:17.219Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 8.446,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.446,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:17.219Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:20:14.648Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 8.219,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 8.219,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:14.648Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:46.311Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:46.311Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:03:09.548Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.947,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 15.947,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:03:09.548Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:29:02.918Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.987,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "119bba5feee9bc675279-898ca55c8803df7a3285",
+          "title": "chromium › admin-mappings.spec.ts › admin mappings tab › renders a system mapping card and removes a mapping",
+          "durationSeconds": 15.987,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:29:02.918Z"
+        }
+      ]
+    }
+  ]
+}

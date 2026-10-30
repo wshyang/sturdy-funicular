@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/screenshot-count.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:29:01.130Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 0.185,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9678899f20f604c2bfb2-4e57ed24b15d02513ec3",
+          "title": "screenshot-count › screenshot-count.spec.ts › screenshot-count self-check › the suite generated a positive, even number of screenshots this run",
+          "durationSeconds": 0.185,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:29:01.130Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:31:59.452Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 0.312,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "9678899f20f604c2bfb2-4e57ed24b15d02513ec3",
+          "title": "screenshot-count › screenshot-count.spec.ts › screenshot-count self-check › the suite generated a positive, even number of screenshots this run",
+          "durationSeconds": 0.179,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:31:59.452Z"
+        },
+        {
+          "testId": "9678899f20f604c2bfb2-4e57ed24b15d02513ec3",
+          "title": "screenshot-count › screenshot-count.spec.ts › screenshot-count self-check › the suite generated a positive, even number of screenshots this run",
+          "durationSeconds": 0.133,
+          "status": "passed",
+          "retry": 1,
+          "startedAt": "2026-09-24T01:32:00.014Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:32:20.415Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 0.185,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "9678899f20f604c2bfb2-4e57ed24b15d02513ec3",
+          "title": "screenshot-count › screenshot-count.spec.ts › screenshot-count self-check › the suite generated a positive, even number of screenshots this run",
+          "durationSeconds": 0.185,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:32:20.415Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1772 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-assets.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-15T19:28:12.530Z-33236",
+      "startedAt": "2026-08-15T19:28:26.294Z",
+      "finishedAt": "2026-08-15T19:28:35.019Z",
+      "totalSeconds": 8.217,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 8.217,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:26.294Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:46.042Z-33666",
+      "startedAt": "2026-08-15T19:29:00.068Z",
+      "finishedAt": "2026-08-15T19:29:09.046Z",
+      "totalSeconds": 8.47,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 8.47,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:00.068Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:14.909Z-34619",
+      "startedAt": "2026-08-15T19:29:28.699Z",
+      "finishedAt": "2026-08-15T19:29:37.504Z",
+      "totalSeconds": 8.304,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 8.304,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:28.699Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:45.771Z-35061",
+      "startedAt": "2026-08-15T19:29:59.954Z",
+      "finishedAt": "2026-08-15T19:30:08.702Z",
+      "totalSeconds": 8.259,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 8.259,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:59.954Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:30:15.227Z-35534",
+      "startedAt": "2026-08-15T19:30:29.494Z",
+      "finishedAt": "2026-08-15T19:30:38.216Z",
+      "totalSeconds": 8.212,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 8.212,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:29.494Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:24:01.874Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 39.485,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.155,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:01.874Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.959,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:11.034Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.321,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:20.998Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.05,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:32.324Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:50:58.558Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 38.503,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.078,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:58.558Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.461,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:51:07.641Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.041,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:51:17.106Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 8.923,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:51:28.151Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:52:30.298Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 37.829,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 8.952,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:30.298Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.347,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:39.255Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 10.987,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:48.607Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 8.543,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:59.598Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:05:44.724Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 40.301,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.179,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:44.724Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.801,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:53.907Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.305,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:06:03.713Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.016,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:06:16.022Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:26:19.130Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 41.129,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.658,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:19.130Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.353,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:28.793Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.799,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:39.151Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.319,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:50.955Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:42:36.771Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 44.01,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.289,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:36.771Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.139,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:46.066Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.538,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:56.210Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.044,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:43:08.753Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:53:23.193Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 40.987,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.644,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:23.193Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.115,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:32.841Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.207,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:42.960Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 10.021,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:54.172Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:41.566Z-46218",
+      "startedAt": "2026-08-18T18:22:03.962Z",
+      "finishedAt": "2026-08-18T18:22:51.808Z",
+      "totalSeconds": 40.28,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.272,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:03.962Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.444,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:13.239Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.424,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:23.688Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.14,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:35.116Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:32:25.953Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 39.785,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.239,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:25.953Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.588,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:35.198Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.637,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:44.791Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.321,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:56.433Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:41:57.332Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 40.559,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.4,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:57.332Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.103,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:06.737Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.68,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:16.845Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.376,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:28.529Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:44:09.870Z-70607",
+      "startedAt": "2026-08-18T18:44:27.710Z",
+      "finishedAt": "2026-08-18T18:45:10.338Z",
+      "totalSeconds": 40.441,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.456,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:27.710Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.128,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:37.171Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.44,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:47.304Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.417,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:58.749Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:47:32.332Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 43.48599999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 11.152,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:32.332Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.523,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:43.489Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.139,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:54.017Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.672,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:48:06.161Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:02:52.030Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 45.763000000000005,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.954,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:52.030Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 11.294,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:01.989Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.354,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:13.287Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.161,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:25.646Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:09:42.258Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 48.537,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.458,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:42.258Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.715,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:52.720Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.891,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:10:05.441Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.473,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:10:18.339Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:14:45.096Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 41.554,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.476,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:45.096Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.859,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:55.577Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.165,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:05.441Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.054,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:17.611Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:18:04.992Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 41.165,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.376,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:04.992Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.761,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:14.372Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.733,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:24.138Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 10.295,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:35.875Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:24:27.868Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 39.072,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.145,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:27.868Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.573,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:37.018Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.404,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:46.595Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 8.95,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:58.004Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:51:34.277Z-29149",
+      "startedAt": "2026-08-18T21:51:58.137Z",
+      "finishedAt": "2026-08-18T21:52:40.511Z",
+      "totalSeconds": 41.964,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.733,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:58.137Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.068,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:52:08.876Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.3,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:52:18.950Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 8.863,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:52:31.255Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:21:23.036Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 46.787,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 11.186,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:23.036Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.192,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:34.228Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.272,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:46.425Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 11.137,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:58.702Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:51:03.356Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 42.853,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.105,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:03.356Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.556,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:13.466Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.955,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:24.027Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 10.237,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:35.986Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:02:50.404Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 48.998999999999995,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 11.381,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:50.404Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.6,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:03:01.790Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.703,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:03:14.396Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.315,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:03:27.104Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:10:43.776Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 48.068000000000005,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.308,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:43.776Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.996,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:54.089Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.149,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:11:07.090Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.615,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:11:19.246Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:50:24.428Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 42.361000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.839,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:24.428Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 10.351,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:34.272Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.214,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:44.627Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.957,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:56.846Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:29:56.480Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 45.83899999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.276,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:56.480Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.155,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:30:06.762Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.264,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:30:18.922Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 11.144,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:30:31.191Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:37:31.540Z-66401",
+      "startedAt": "2026-08-19T12:37:57.566Z",
+      "finishedAt": "2026-08-19T12:38:54.306Z",
+      "totalSeconds": 51.1,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 12.887,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:57.566Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.368,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:38:10.458Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.945,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:38:22.832Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.9,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:38:35.783Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:40:56.989Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 47.866,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 12.3,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:56.989Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.484,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:41:09.294Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.215,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:41:21.787Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 10.867,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:41:34.017Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:00:20.880Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 46.064,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.776,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:20.880Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.815,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:31.661Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.57,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:44.482Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.903,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:57.057Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:09:06.101Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 46.381,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.614,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:06.101Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 11.262,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:15.720Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.898,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:26.987Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.607,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:39.890Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:18:19.293Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 49.67,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 12.456,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:19.293Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.361,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:31.754Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.594,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:44.120Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.259,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:56.719Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:48:52.636Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 43.505,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.14,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:52.636Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.637,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:49:01.781Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.301,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:49:11.423Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 13.427,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:49:22.729Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:56:57.646Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 45.2,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.627,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:57.646Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 12.627,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:57:08.279Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.84,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:57:20.911Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.106,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:57:33.755Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:04:35.689Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 42.728,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 12.566,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:35.689Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.787,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:48.260Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.18,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:58.051Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.195,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:09.236Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:24:29.572Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 40.355000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.438,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:29.572Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.801,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:39.015Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.979,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:48.821Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.137,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:00.746Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:52:44.707Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 43.756,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 11.989,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:44.707Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.832,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:56.701Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 12.781,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:06.538Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.154,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:19.324Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:26:14.458Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 43.913,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 10.063,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:14.458Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.674,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:24.526Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.851,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:34.207Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 12.325,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:46.062Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:16:48.915Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 38.719,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.06,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:48.915Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.739,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:57.980Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.051,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:07.724Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 8.869,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:18.779Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:19:34.972Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 38.827999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.142,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:34.972Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.588,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:44.119Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.089,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:53.712Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 9.009,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:04.805Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:19:32.538Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 38.778,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 9.478,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:32.538Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 9.412,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:42.021Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 11.131,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:51.438Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 8.757,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:02.574Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:44.182Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.005,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 0.002,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:44.182Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:44.573Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:44.932Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:45.280Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:01:39.315Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 64.038,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 16.049,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:01:39.315Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 15.969,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:01:56.088Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 16.054,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:02:12.806Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 15.966,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:02:29.603Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:27:32.645Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 64.16900000000001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "3c9982cd89b4811d1296-5b3106e886ec5ed6b9fc",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › admin creates an asset credential pair; immutable fields are disabled; duplicate identities are rejected",
+          "durationSeconds": 16.103,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:27:32.645Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-422adf31fd6587efeff1",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › vendor request form only offers valid active assets (credential-name disabled until hostname selected; unknown hostname shows empty state)",
+          "durationSeconds": 15.98,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:27:49.486Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-02e0124cfb3036a69d8f",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › invalidate and restore asset lifecycle (both confirm branches; invalidated host absent from request form, restored host selectable again)",
+          "durationSeconds": 15.992,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:28:06.203Z"
+        },
+        {
+          "testId": "3c9982cd89b4811d1296-9d414fce527abbd84fdb",
+          "title": "chromium › admin-assets.spec.ts › admin assets inventory › CSV bulk import: template download, staged preview with per-row validation, sequential creation of the valid rows only",
+          "durationSeconds": 16.094,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:28:22.940Z"
+        }
+      ]
+    }
+  ]
+}

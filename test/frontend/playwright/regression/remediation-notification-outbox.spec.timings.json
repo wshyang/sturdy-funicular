@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/remediation-notification-outbox.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:14:30.819Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 4.321,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 2.63,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:14:30.819Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 1.691,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:14:33.586Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:34:07.303Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 2.128,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 1.154,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:34:07.303Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 0.974,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:34:08.462Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:02:13.176Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 2.7270000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 1.231,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:02:13.176Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 1.496,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:02:14.412Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:35:59.052Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 2.126,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 1.143,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:35:59.052Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 0.983,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:36:00.201Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:25:15.195Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.032,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 1.068,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:25:15.195Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 0.964,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:25:16.267Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:28:00.587Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.083,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 1.06,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:28:00.587Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 1.023,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:28:01.651Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:28:18.806Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.375,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 1.275,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:28:18.806Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 1.1,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:28:20.085Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:12:11.838Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 21.479,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 10.926,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:12:11.838Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 10.553,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:12:23.343Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:38:04.954Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 21.538,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "2bbecd3fbdc240abc70b-8613aec0f25db65ed877",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-on invite produces a normalized staged delivery and detail view",
+          "durationSeconds": 10.959,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:38:04.954Z"
+        },
+        {
+          "testId": "2bbecd3fbdc240abc70b-d20af939e31639d7c453",
+          "title": "chromium › remediation-notification-outbox.spec.ts › remediation exercise — notification outbox › notify-off invite creates the user invitation but no notification row",
+          "durationSeconds": 10.579,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:38:16.527Z"
+        }
+      ]
+    }
+  ]
+}

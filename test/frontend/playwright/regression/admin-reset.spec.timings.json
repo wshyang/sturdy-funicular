@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-reset.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:33:45.803Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 24.722,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 24.722,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:33:45.803Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:43:17.887Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 16.18,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 16.18,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:43:17.887Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:49:03.818Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 31.284,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 31.284,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:49:03.818Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:01:44.441Z-98840",
+      "startedAt": "2026-08-18T19:01:51.589Z",
+      "finishedAt": "2026-08-18T19:02:17.719Z",
+      "totalSeconds": 25.476,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 25.476,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:01:51.589Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:04:17.829Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 22.95,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 22.95,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:17.829Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:11:11.987Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 21.964,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.964,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:11.987Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:16:06.182Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 21.48,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.48,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:16:06.182Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:19:29.351Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 22.186,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 22.186,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:29.351Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:25:48.984Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 22.069,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 22.069,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:25:48.984Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:52:30.708Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 21.976,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.976,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:52:30.708Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:51:53.625Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 23.004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 23.004,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:51:53.625Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:42:26.872Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 21.834,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.834,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:26.872Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:01:47.835Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 23.639,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 23.639,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:01:47.835Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:10:32.358Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 22.704,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 22.704,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:10:32.358Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:19:49.411Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 23.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 23.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:19:49.411Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:50:33.322Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 21.617,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.617,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:33.322Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:05:57.803Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 22.916,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 22.916,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:57.803Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:25:55.663Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 21.684,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.684,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:55.663Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:54:08.416Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 22.875,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 22.875,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:54:08.416Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:27:38.926Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 21.435,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.435,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:27:38.926Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:18:05.551Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 22.745,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 22.745,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:05.551Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:20:52.490Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 21.338,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.338,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:52.490Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:20:49.877Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 21.344,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 21.344,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:49.877Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:47.729Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:47.729Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:04:11.170Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.997,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 15.997,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:04:11.170Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:30:04.628Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.933,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f1d6029ff3af524751f3-008ff9d3da8cd083f94c",
+          "title": "chromium › admin-reset.spec.ts › admin reset action › global admin resets an in-flight request back to the submitter",
+          "durationSeconds": 15.933,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:30:04.628Z"
+        }
+      ]
+    }
+  ]
+}

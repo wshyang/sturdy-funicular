@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/remediation-custody-guards.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:13:56.521Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 32.891999999999996,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 16.416,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:13:56.521Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 16.476,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:14:13.212Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:33:49.265Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 18.022000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 16.373,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:33:49.265Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.649,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:34:05.642Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:01:55.237Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 17.897000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 16.233,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:01:55.237Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.664,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:02:11.476Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:35:41.272Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 17.763,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 16.204,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:35:41.272Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.559,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:35:57.480Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:24:57.684Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 17.496,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 15.93,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:24:57.684Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.566,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:25:13.619Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:27:42.747Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 17.822,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 16.241,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:27:42.747Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.581,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:27:58.993Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:28:01.032Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 17.758,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 16.205,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:28:01.032Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.553,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:28:17.242Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:11:55.120Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.963,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 15.963,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:11:55.120Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 0,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:12:11.525Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:37:48.165Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.983,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "f7b64081794b87e7963a-4c5beec788b82ab4d8cc",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › only the agency can prepare, and a selected item advances without mutating its sibling",
+          "durationSeconds": 15.983,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:37:48.165Z"
+        },
+        {
+          "testId": "f7b64081794b87e7963a-d6336dc8a3a9801e9448",
+          "title": "chromium › remediation-custody-guards.spec.ts › remediation exercise — custody guards › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 0,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:38:04.613Z"
+        }
+      ]
+    }
+  ]
+}

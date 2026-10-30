@@ -1,0 +1,244 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/vendor-submit-elements.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:38:12.413Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 21.922,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 21.922,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:38:12.413Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:06:10.685Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 28.265,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 28.265,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:06:10.685Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T17:26:43.090Z-11457",
+      "startedAt": "2026-08-19T17:27:56.378Z",
+      "finishedAt": "2026-08-19T17:28:43.175Z",
+      "totalSeconds": 26.614,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 26.614,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:27:56.378Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T17:58:59.806Z-56429",
+      "startedAt": "2026-08-19T17:59:55.850Z",
+      "finishedAt": "2026-08-19T18:00:18.526Z",
+      "totalSeconds": 21.779,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 21.779,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:59:55.850Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:04:23.371Z-63407",
+      "startedAt": "2026-08-19T18:05:25.601Z",
+      "finishedAt": "2026-08-19T18:05:40.733Z",
+      "totalSeconds": 14.904,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 14.904,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:05:25.601Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:06:51.576Z-67761",
+      "startedAt": "2026-08-19T18:07:41.766Z",
+      "finishedAt": "2026-08-19T18:07:53.568Z",
+      "totalSeconds": 11.395,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 11.395,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:07:41.766Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:21:18.680Z-82922",
+      "startedAt": "2026-08-19T18:22:09.223Z",
+      "finishedAt": "2026-08-19T18:22:20.397Z",
+      "totalSeconds": 11.01,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 11.01,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:22:09.223Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:24:55.298Z-86822",
+      "startedAt": "2026-08-19T18:25:35.478Z",
+      "finishedAt": "2026-08-19T18:25:47.818Z",
+      "totalSeconds": 12.131,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 12.131,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:25:35.478Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:39:36.352Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 12.886,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 12.886,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:39:36.352Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:28:26.226Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 13.328,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 13.328,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:28:26.226Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:31:23.303Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 13.769,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 13.769,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:31:23.303Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:31:44.092Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 13.989,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 13.989,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:31:44.092Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:16:06.975Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.894,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 15.894,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:16:06.975Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:41:59.969Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.313,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d81a42b902cca39e8d2-813429fed2e87a217e91",
+          "title": "chromium › vendor-submit-elements.spec.ts › §C vendor submit-form elements › asset guard, combobox search floor, row add/remove, pickers, draft restore, and the real submit",
+          "durationSeconds": 16.313,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:41:59.969Z"
+        }
+      ]
+    }
+  ]
+}

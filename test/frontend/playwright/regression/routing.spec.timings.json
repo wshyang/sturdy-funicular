@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/routing.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:36:28.610Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 16.052,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 1.319,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:28.610Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 1.236,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:30.111Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 1.349,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:31.353Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 12.148,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:36:32.707Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:04:27.860Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 19.127,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 2.05,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:27.860Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 4.065,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:30.199Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 1.245,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:34.269Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 11.767,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:04:35.519Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:38:09.370Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 14.981,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 1.034,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:09.370Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 1.087,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:10.409Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 1.184,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:11.502Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 11.676,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:12.690Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:27:00.207Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 14.797,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 1.037,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:00.207Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 1.051,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:01.248Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 1.149,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:02.304Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 11.56,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:03.457Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:29:46.856Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 15.39,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 1.042,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:29:46.856Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 1.067,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:29:47.903Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 1.166,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:29:48.974Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 12.115,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:29:50.144Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:30:05.992Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 15.924999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 1.094,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:05.992Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 1.042,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:07.090Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 1.169,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:08.137Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 12.62,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:09.310Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:13:58.599Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 18.683,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 0.999,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:13:58.599Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 0.95,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:13:59.703Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 0.786,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:00.659Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 15.948,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:01.449Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:39:51.949Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 18.745,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "43935043b4e8ab2472fa-ba6e584816ffbcf214ff",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › role deep link /dashboard/admin renders the Admin Panel, and a reload stays on the same role screen",
+          "durationSeconds": 0.979,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:39:51.949Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-317993e55b98bdf3bccc",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › admin tab deep link /dashboard/admin/assets renders the Assets tab and survives refresh",
+          "durationSeconds": 1.051,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:39:53.040Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-4d8d2464ac59612cbeda",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › 2nd-order deep link: selected admin-assets system persists in the URL and across refresh",
+          "durationSeconds": 0.766,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:39:54.096Z"
+        },
+        {
+          "testId": "43935043b4e8ab2472fa-75d346feebca949f5118",
+          "title": "chromium › routing.spec.ts › URL routing: deep links, refresh persistence, role slugs › milestone 3: a partially-filled submit form is restored across refresh (draft persistence)",
+          "durationSeconds": 15.949,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:39:54.867Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/user-profile-slack.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:38:09.355Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 3.011,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.985,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:38:09.355Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.981,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:38:10.344Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 1.045,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:38:11.331Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:06:07.684Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 2.968,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.996,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:06:07.684Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.968,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:06:08.684Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 1.004,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:06:09.657Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:39:33.723Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 2.6109999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.824,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:39:33.723Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.86,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:39:34.551Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 0.927,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:39:35.416Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:28:23.511Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.698,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.903,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:28:23.511Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.899,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:28:24.418Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 0.896,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:28:25.321Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:31:20.592Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.69,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.864,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:31:20.592Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.912,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:31:21.460Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 0.914,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:31:22.376Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:31:41.360Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.714,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.875,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:31:41.360Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.917,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:31:42.240Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 0.922,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:31:43.160Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:16:04.262Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 2.59,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.836,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:16:04.262Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.814,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:16:05.204Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 0.94,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:16:06.023Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:41:57.188Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 2.649,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "57bc49b756d9bf7fe6e6-85c5a5cd64213cd7f100",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › avatar dropdown opens the User Profile modal with a Slack row",
+          "durationSeconds": 0.857,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:41:57.188Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-7575962c951bb899c9bf",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › the close button dismisses the modal",
+          "durationSeconds": 0.832,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:41:58.153Z"
+        },
+        {
+          "testId": "57bc49b756d9bf7fe6e6-162f2d68533ebf79f710",
+          "title": "chromium › user-profile-slack.spec.ts › user profile — slack integration › clicking Connect Slack surfaces the not-configured error inline",
+          "durationSeconds": 0.96,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:41:58.991Z"
+        }
+      ]
+    }
+  ]
+}

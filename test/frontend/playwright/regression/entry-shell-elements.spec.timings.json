@@ -1,0 +1,790 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/entry-shell-elements.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:55:43.991Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 5.302,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.88,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:43.991Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.699,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:44.876Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.547,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:45.579Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.858,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:47.131Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.318,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:47.993Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:54:52.547Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 4.888999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.74,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:52.547Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.689,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:53.291Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.507,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:53.984Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.775,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:55.496Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.178,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:56.276Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:45:24.228Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 5.816999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.853,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:24.228Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.681,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:25.085Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.662,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:25.770Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.901,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:27.437Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.72,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:28.342Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:04:46.569Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 5.791,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.888,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:46.569Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.698,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:47.461Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.568,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:48.164Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.838,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:49.736Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.799,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:50.578Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:13:24.818Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 5.255999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.893,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:24.818Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.714,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:25.716Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.515,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:26.434Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.813,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:27.954Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.321,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:28.772Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:22:51.886Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 5.061999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.752,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:51.886Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.71,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:52.642Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.46,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:53.356Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.807,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:54.821Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.333,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:55.632Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:08:58.415Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 5.816,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.852,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:58.415Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.738,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:59.272Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.508,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:00.015Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.813,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:01.528Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.905,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:02.346Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:07.480Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 5.2379999999999995,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.889,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:07.480Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.706,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:08.374Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.545,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:09.084Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.831,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:10.633Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.267,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:11.469Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:56:56.071Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 8.807,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.889,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:56.071Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.778,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:56.966Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 4.915,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:57.749Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.913,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:02.672Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.312,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:03.590Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:30:45.682Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 5.311,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.91,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:45.682Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.72,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:46.596Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.526,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:47.321Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.781,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:48.852Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.374,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:49.637Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:20:29.287Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 4.5200000000000005,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.713,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:29.287Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.596,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:30.005Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.368,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:30.605Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.651,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:31.977Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.192,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:32.633Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:23:15.057Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 4.453,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.677,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:15.057Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.576,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:15.738Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.375,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:16.318Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.697,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:17.697Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.128,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:18.399Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:23:14.079Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 4.707000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.724,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:14.079Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.614,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:14.809Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.432,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:15.428Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.696,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:16.864Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.241,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:17.565Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:54.160Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.005,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:54.160Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:54.511Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:54.848Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:55.186Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:55.521Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:07:00.182Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 4.066,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.528,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:00.182Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.543,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:00.715Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.291,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:01.263Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.63,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:02.559Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.074,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:03.194Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:32:53.684Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 4.044,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "e57a1adba2145f320496-2e97c589f66c0f5ca5eb",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › login chooser exposes Entra + email options; native required rules block empty submits",
+          "durationSeconds": 0.565,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:53.684Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-702c717f1b5df5a7c9b3",
+          "title": "chromium › entry-shell-elements.spec.ts › §A entry screens — browser-real validation › signup requires native fields; a mismatch is caught before submit",
+          "durationSeconds": 0.555,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:54.254Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-3fe4b36b1c3096bccbab",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › the avatar opens the profile menu; the sign-out flow is confirm-first; search overlay toggles",
+          "durationSeconds": 1.271,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:54.814Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-0ebe662680b7275effdb",
+          "title": "chromium › entry-shell-elements.spec.ts › §B shell chrome — sign out/toast/avatar/search › Search cancelled via its close control returns focus to the trigger",
+          "durationSeconds": 0.578,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:56.090Z"
+        },
+        {
+          "testId": "e57a1adba2145f320496-629c15101b91a51d8025",
+          "title": "chromium › entry-shell-elements.spec.ts › §E-adjacent profile modal (shell entry point) › avatar → profile modal: password change guards, then both close affordances",
+          "durationSeconds": 1.075,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:56.673Z"
+        }
+      ]
+    }
+  ]
+}

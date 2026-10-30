@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/physical-asset-custody.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:12:14.003Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 31.228,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 16.354,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:12:14.003Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 14.874,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:12:30.362Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:32:31.627Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 32.044,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 17.139,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:32:31.627Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 14.905,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:32:48.771Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:00:35.311Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 31.527,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 16.45,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:00:35.311Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 15.077,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:00:51.766Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:34:22.394Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 32.46,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 17.631,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:34:22.394Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 14.829,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:34:40.033Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:23:41.828Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 30.695999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 15.922,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:23:41.828Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 14.774,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:23:57.755Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:26:25.559Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 31.631,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 16.554,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:26:25.559Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 15.077,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:26:42.117Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:26:39.971Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 31.718,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 16.448,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:26:39.971Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 15.27,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:26:56.424Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:11:04.952Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.94,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 15.94,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:11:04.952Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 0,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:11:21.314Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:36:57.968Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.991,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "17117b2c780d87024093-5d2998a7b3911eef52e6",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › fixed happy flow exposes relevant user actions and atomically combines same-team agency stages",
+          "durationSeconds": 15.991,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:36:57.968Z"
+        },
+        {
+          "testId": "17117b2c780d87024093-8c65b387a4789278685e",
+          "title": "chromium › physical-asset-custody.spec.ts › physical asset custody › missing secure phone branches in place, uploads two attachments, and leaves unaffected assets actionable",
+          "durationSeconds": 0,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:37:14.390Z"
+        }
+      ]
+    }
+  ]
+}

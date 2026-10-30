@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/owner-delegation.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:46:18.306Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 10.551,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.551,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:18.306Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:14:18.206Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 10.897,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.897,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:18.206Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:23:44.630Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 10.869,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.869,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:44.630Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:09:54.089Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 10.552,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.552,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:54.089Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:30:02.199Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 10.669,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.669,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:30:02.199Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:57:54.093Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 10.51,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.51,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:54.093Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:31:41.766Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 10.873,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.873,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:41.766Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:21:19.015Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 10.499,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.499,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:19.015Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:24:08.156Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 10.531,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 10.531,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:08.156Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:24:08.654Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 11.095,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 11.095,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:08.654Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:08:47.745Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.975,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 15.975,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:08:47.745Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:34:41.287Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.09,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "58b3b21d3a1af64a1021-a1e504a36ef31c6ca4d3",
+          "title": "chromium › owner-delegation.spec.ts › owner delegation › primary owner adds and removes a delegate",
+          "durationSeconds": 16.09,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:34:41.287Z"
+        }
+      ]
+    }
+  ]
+}

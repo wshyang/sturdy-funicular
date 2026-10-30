@@ -1,0 +1,856 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-access-log.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-15T19:27:16.035Z-32388",
+      "startedAt": "2026-08-15T19:27:28.402Z",
+      "finishedAt": "2026-08-15T19:27:40.785Z",
+      "totalSeconds": 0.882,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.882,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:28.402Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:12.530Z-33236",
+      "startedAt": "2026-08-15T19:28:22.797Z",
+      "finishedAt": "2026-08-15T19:28:35.019Z",
+      "totalSeconds": 0.877,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.877,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:22.797Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:46.042Z-33666",
+      "startedAt": "2026-08-15T19:28:56.403Z",
+      "finishedAt": "2026-08-15T19:29:09.046Z",
+      "totalSeconds": 0.895,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.895,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:56.403Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:14.909Z-34619",
+      "startedAt": "2026-08-15T19:29:25.146Z",
+      "finishedAt": "2026-08-15T19:29:37.504Z",
+      "totalSeconds": 0.899,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.899,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:25.146Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:45.771Z-35061",
+      "startedAt": "2026-08-15T19:29:56.406Z",
+      "finishedAt": "2026-08-15T19:30:08.702Z",
+      "totalSeconds": 0.885,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.885,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:56.406Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:30:15.227Z-35534",
+      "startedAt": "2026-08-15T19:30:25.656Z",
+      "finishedAt": "2026-08-15T19:30:38.216Z",
+      "totalSeconds": 0.888,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.888,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:25.656Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:23:58.139Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 0.942,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.942,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:23:58.139Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:50:54.944Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 0.912,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.912,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:54.944Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:52:26.678Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 0.941,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.941,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:26.678Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:05:41.011Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 0.932,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.932,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:41.011Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:14:03.907Z-48994",
+      "startedAt": "2026-08-18T17:14:15.743Z",
+      "finishedAt": "2026-08-18T17:14:18.398Z",
+      "totalSeconds": 0.932,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.932,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:14:15.743Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:26:15.430Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 0.903,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.903,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:15.430Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:42:32.478Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 1.074,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.074,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:32.478Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:53:18.506Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 0.947,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.947,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:18.506Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:41.566Z-46218",
+      "startedAt": "2026-08-18T18:21:59.590Z",
+      "finishedAt": "2026-08-18T18:22:51.808Z",
+      "totalSeconds": 1.157,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.157,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:21:59.590Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:32:21.636Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 1.033,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.033,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:21.636Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:41:53.458Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 0.983,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.983,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:53.458Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:44:09.870Z-70607",
+      "startedAt": "2026-08-18T18:44:23.397Z",
+      "finishedAt": "2026-08-18T18:45:10.338Z",
+      "totalSeconds": 1.144,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.144,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:23.397Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:47:25.912Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 1.131,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.131,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:25.912Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:02:44.568Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 3.967,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 3.967,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:44.568Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:09:37.860Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 1.164,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.164,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:37.860Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:14:40.675Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 1.157,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.157,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:40.675Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:18:00.453Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 1.217,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.217,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:00.453Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:24:23.543Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 1.064,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.064,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:23.543Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:51:34.277Z-29149",
+      "startedAt": "2026-08-18T21:51:50.373Z",
+      "finishedAt": "2026-08-18T21:52:40.511Z",
+      "totalSeconds": 1.105,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.105,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:50.373Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:10:10.952Z-47879",
+      "startedAt": "2026-08-18T22:10:33.078Z",
+      "finishedAt": "2026-08-18T22:10:36.798Z",
+      "totalSeconds": 1.166,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.166,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:10:33.078Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:21:14.764Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 1.201,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.201,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:14.764Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:43:24.400Z-99725",
+      "startedAt": "2026-08-18T22:43:42.609Z",
+      "finishedAt": "2026-08-18T22:43:51.399Z",
+      "totalSeconds": 1.138,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.138,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:43:42.609Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:50:58.838Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 1.174,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.174,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:50:58.838Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:02:41.868Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 1.188,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.188,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:41.868Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:10:39.073Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 1.008,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.008,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:39.073Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:50:19.696Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 1.171,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.171,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:19.696Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:29:45.947Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 1.168,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.168,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:45.947Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:37:31.540Z-66401",
+      "startedAt": "2026-08-19T12:37:49.475Z",
+      "finishedAt": "2026-08-19T12:38:54.306Z",
+      "totalSeconds": 1.091,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.091,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:49.475Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:40:48.869Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 1.122,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.122,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:48.869Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:00:12.861Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 2.012,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 2.012,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:12.861Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:09:01.651Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 1.155,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.155,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:01.651Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:18:11.309Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 1.129,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.129,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:11.309Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:48:47.019Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 1.2,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.2,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:47.019Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:56:49.228Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 1.784,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.784,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:49.228Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:04:27.953Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 1.226,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.226,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:27.953Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:24:25.122Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 1.18,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.18,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:25.122Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:52:38.084Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 3.363,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 3.363,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:38.084Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:26:09.783Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 1.179,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.179,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:09.783Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:16:45.219Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 0.907,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.907,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:45.219Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:19:24.778Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 1.387,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.387,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:24.778Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:19:28.384Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 1.333,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 1.333,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:28.384Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:42.784Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:42.784Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:00:44.039Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 10.921,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 10.921,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:00:44.039Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:26:46.813Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 10.95,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "ff35615dc80258648b29-13268da21d8540d40ca9",
+          "title": "chromium › admin-access-log.spec.ts › admin access-log tab › renders access-log rows and applies/clears filters",
+          "durationSeconds": 10.95,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:26:46.813Z"
+        }
+      ]
+    }
+  ]
+}

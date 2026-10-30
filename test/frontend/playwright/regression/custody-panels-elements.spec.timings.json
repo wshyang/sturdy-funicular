@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/custody-panels-elements.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:20:30.514Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 30.747,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 30.747,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:20:30.514Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:26:48.489Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 27.487,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 27.487,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:48.489Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:53:37.258Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 16.373,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 16.373,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:53:37.258Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:52:56.617Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 16.175,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 16.175,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:56.617Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:43:26.033Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 15.855,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.855,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:43:26.033Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:02:48.708Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 15.549,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.549,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:48.708Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:11:36.409Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 15.776,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.776,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:11:36.409Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:20:51.656Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 15.617,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.617,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:51.656Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:51:34.670Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 25.905,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 25.905,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:51:34.670Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:06:59.138Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 15.551,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.551,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:59.138Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:27:08.173Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 15.478,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.478,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:27:08.173Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:55:09.978Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 15.746,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.746,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:55:09.978Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:28:41.657Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 20.64,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 20.64,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:41.657Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:19:03.464Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 15.739,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.739,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:19:03.464Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-20T03:37:39.241Z-59655",
+      "startedAt": "2026-08-20T03:38:01.914Z",
+      "finishedAt": "2026-08-20T03:38:17.910Z",
+      "totalSeconds": 15.731,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.731,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-20T03:38:01.914Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:21:49.617Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 15.244,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.244,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:49.617Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:21:47.741Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 15.47,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.47,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:47.741Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:50.856Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:50.856Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:06:01.083Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.993,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 15.993,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:01.083Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:31:54.653Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.016,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0657ced03b453a59db11-1f40a67e81b3f97c5dbe",
+          "title": "chromium › custody-panels-elements.spec.ts › §F custody element gates — batch bar, problem modal, history, audit chips › no-common-action batch bar; problem-modal review/back/cancel arms; history toggle; artefact-free audit trail",
+          "durationSeconds": 16.016,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:31:54.653Z"
+        }
+      ]
+    }
+  ]
+}

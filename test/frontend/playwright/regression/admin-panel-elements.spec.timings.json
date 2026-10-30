@@ -1,0 +1,737 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-panel-elements.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:24:52.612Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 11.712,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 11.712,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:52.612Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:51:48.451Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 12.076,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 12.076,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:51:48.451Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:53:19.387Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 12.036,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 12.036,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:53:19.387Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:06:37.059Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 12.265,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 12.265,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:06:37.059Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:31:00.539Z-84867",
+      "startedAt": "2026-08-18T16:31:03.639Z",
+      "finishedAt": "2026-08-18T16:31:17.355Z",
+      "totalSeconds": 13.098,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 13.098,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:31:03.639Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:32:35.320Z-88064",
+      "startedAt": "2026-08-18T16:32:37.634Z",
+      "finishedAt": "2026-08-18T16:32:56.501Z",
+      "totalSeconds": 18.259,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 18.259,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:32:37.634Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:37:54.143Z-92832",
+      "startedAt": "2026-08-18T16:37:56.519Z",
+      "finishedAt": "2026-08-18T16:38:10.578Z",
+      "totalSeconds": 13.495,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 13.495,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:37:56.519Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:52:00.383Z-25538",
+      "startedAt": "2026-08-18T16:52:02.703Z",
+      "finishedAt": "2026-08-18T16:52:16.994Z",
+      "totalSeconds": 13.731,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 13.731,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:52:02.703Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:11:31.722Z-43889",
+      "startedAt": "2026-08-18T17:11:34.657Z",
+      "finishedAt": "2026-08-18T17:11:49.103Z",
+      "totalSeconds": 13.831,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 13.831,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:11:34.657Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:13:16.163Z-48013",
+      "startedAt": "2026-08-18T17:13:19.136Z",
+      "finishedAt": "2026-08-18T17:13:23.421Z",
+      "totalSeconds": 3.953,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.953,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:13:19.136Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:27:12.702Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 3.166,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.166,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:27:12.702Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:43:34.782Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 4.909,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.909,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:43:34.782Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:54:16.475Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 3.349,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.349,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:54:16.475Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:33:18.744Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 3.162,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.162,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:33:18.744Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:42:50.129Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 3.298,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.298,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:50.129Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:48:32.314Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 4.87,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.87,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:48:32.314Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:03:50.127Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 3.343,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.343,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:50.127Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:10:44.071Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 3.422,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.422,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:10:44.071Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:15:38.808Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 3.365,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.365,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:38.808Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:19:00.982Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 3.329,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.329,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:00.982Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:25:20.821Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 3.452,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.452,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:25:20.821Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:51:59.588Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 4.825,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.825,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:59.588Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:03:52.984Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 4.837,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.837,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:03:52.984Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:11:44.590Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 4.846,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.846,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:11:44.590Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:16:39.908Z-42428",
+      "startedAt": "2026-08-19T11:16:47.519Z",
+      "finishedAt": "2026-08-19T11:16:53.920Z",
+      "totalSeconds": 4.869,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.869,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:16:47.519Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:51:22.007Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 4.064,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.064,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:51:22.007Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:30:56.491Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 4.362,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 4.362,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:30:56.491Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:41:58.772Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 3.323,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.323,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:41:58.772Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:01:18.687Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 5.209,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 5.209,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:01:18.687Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:10:05.187Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 3.48,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.48,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:10:05.187Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:19:21.709Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 3.599,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.599,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:19:21.709Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:50:06.062Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 3.563,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.563,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:06.062Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:58:18.081Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 8.624,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 8.624,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:58:18.081Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:05:30.713Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 3.264,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.264,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:30.713Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:25:27.682Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 3.328,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.328,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:27.682Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:53:40.660Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 3.369,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.369,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:40.660Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:27:10.847Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 3.566,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.566,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:27:10.847Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:17:38.915Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 3.053,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.053,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:38.915Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:20:25.691Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 3.233,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.233,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:25.691Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:20:22.880Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 3.278,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 3.278,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:22.880Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:46.652Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:46.652Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:03:26.221Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 10.857,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 10.857,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:03:26.221Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:29:19.643Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 10.836,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "86801023fa3c6931aab3-4c9b0c6bf116001c0f30",
+          "title": "chromium › admin-panel-elements.spec.ts › §G–§K admin panel element sweep › every tab renders its surface; inline guards and disclosures behave",
+          "durationSeconds": 10.836,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:29:19.643Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# test/frontend/playwright/demo/ directory files
+
+- `happy-path-showcase.spec.ts` — HD recording of asset curation, exact pending-dashboard approvals, custody preview, custody-backed auto-issuance, closure-independent return/restock, owner statistics/systems, and dedicated delegate revocation.
+- `secret-autorelease-showcase.spec.ts` — HD LocalStack recording of discovered/API-managed assets, exchange preview/live track, downloaded-key negative and positive decryption, audit disclosure, and requester closure.
+- `helpers/` — Demo pacing, capture, caption, and submission helpers.
+- `physical-custody-showcase.spec.ts` — addendum-196: HD recording #3 — ONE three-item physical-custody request whose assets take three fates (laptop happy path to restock; token issued then reported lost by the requester; phone reported missing by the agency during preparation), ending on the app's inline 409 refusal to mark the request issued while an exception stays open, plus the owner-approval outbox beat and the console-hygiene close. Kebab-menu row actions (addendum-192) and the custody-problem-modal__dialog testid are the corrected selector patterns. Runs on config/playwright.demo-physical-custody.config.ts via pnpm run demo:e2e:physical-custody.

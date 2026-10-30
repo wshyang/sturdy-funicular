@@ -1,0 +1,790 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/entra-sso.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:55:37.910Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 6.028,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.575,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:37.910Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 3.578,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:38.488Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.614,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:42.070Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.612,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:42.689Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.649,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:55:43.305Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:54:49.110Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 3.366,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.452,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:49.110Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.564,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:49.566Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.533,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:50.134Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.781,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:50.671Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 1.036,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:54:51.457Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:45:21.034Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 3.146,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.543,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:21.034Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.732,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:21.582Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.595,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:22.318Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.626,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:22.917Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.65,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:45:23.548Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:04:43.503Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 3.019,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.458,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:43.503Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.694,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:43.965Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.6,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:44.664Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.6,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:45.268Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.667,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:04:45.872Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:13:18.554Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 6.2250000000000005,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.895,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:18.554Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.786,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:19.453Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.573,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:20.244Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 3.194,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:20.822Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.777,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:13:24.020Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:22:45.899Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 5.943,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.586,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:45.899Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 1.165,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:46.490Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.552,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:47.659Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 2.285,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:48.216Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 1.355,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:22:50.505Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:08:55.156Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 3.206,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.596,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:55.156Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.712,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:55.757Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.586,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:56.473Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.644,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:57.064Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.668,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:08:57.712Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:04.319Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 3.1109999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.552,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:04.319Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.671,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:04.875Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.631,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:05.550Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.614,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:06.186Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.643,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:06.804Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:56:52.825Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 3.183,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.577,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:52.825Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.719,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:53.408Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.606,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:54.133Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.625,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:54.743Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.656,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:56:55.373Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:30:40.357Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 5.27,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.89,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:40.357Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 2.477,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:41.251Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.656,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:43.733Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.628,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:44.393Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.619,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:30:45.026Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:20:26.767Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.494,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.43,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:26.767Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.582,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:27.201Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.457,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:27.787Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:28.249Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.525,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:20:28.752Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:23:12.670Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.3579999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.399,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:12.670Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.594,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:13.074Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.427,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:13.672Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.442,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:14.104Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.496,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:14.550Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:23:11.643Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.409,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.415,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:11.643Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.568,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:12.062Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.443,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:12.634Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.473,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:13.082Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.51,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:13.559Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:52.563Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.005,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:52.563Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:52.884Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:53.194Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:53.511Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:53.821Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:06:48.021Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 11.456000000000003,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.425,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:48.021Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 9.509,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:48.550Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.47,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:58.510Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.521,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:59.084Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.531,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:06:59.609Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:32:41.596Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 11.382000000000001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "cf148b9e4032f8a7a224-070bf3d822081ae3fe8d",
+          "title": "chromium › entra-sso.spec.ts › entra sso › fresh page load shows the chooser, not the email form",
+          "durationSeconds": 0.413,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:41.596Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-c16ad15849c217e1d56b",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login with Entra ID\" round-trips to a friendly not-configured banner",
+          "durationSeconds": 9.502,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:42.114Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-a27d4f275b87c828d138",
+          "title": "chromium › entra-sso.spec.ts › entra sso › clicking \"Login / Sign up with Email\" reveals today's email login form",
+          "durationSeconds": 0.493,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:52.062Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-b5cfeab3acb6f785845c",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the email login form returns to the chooser",
+          "durationSeconds": 0.487,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:52.661Z"
+        },
+        {
+          "testId": "cf148b9e4032f8a7a224-6a87deb2a12cb14c368e",
+          "title": "chromium › entra-sso.spec.ts › entra sso › the back link on the signup form returns to the chooser",
+          "durationSeconds": 0.487,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:32:53.153Z"
+        }
+      ]
+    }
+  ]
+}

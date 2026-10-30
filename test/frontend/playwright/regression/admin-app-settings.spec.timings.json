@@ -1,0 +1,1849 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-app-settings.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-15T19:27:16.035Z-32388",
+      "startedAt": "2026-08-15T19:27:29.293Z",
+      "finishedAt": "2026-08-15T19:27:40.785Z",
+      "totalSeconds": 11.208,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 11.208,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:29.293Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:27:54.443Z-32873",
+      "startedAt": "2026-08-15T19:27:56.711Z",
+      "finishedAt": "2026-08-15T19:28:01.054Z",
+      "totalSeconds": 4.151,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.549,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:56.711Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.408,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:58.365Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.194,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:59.781Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:12.530Z-33236",
+      "startedAt": "2026-08-15T19:28:23.683Z",
+      "finishedAt": "2026-08-15T19:28:35.019Z",
+      "totalSeconds": 2.589,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.873,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:23.683Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.945,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:24.561Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.771,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:25.511Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:46.042Z-33666",
+      "startedAt": "2026-08-15T19:28:57.308Z",
+      "finishedAt": "2026-08-15T19:29:09.046Z",
+      "totalSeconds": 2.739,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.891,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:57.308Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.09,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:58.204Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.758,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:59.300Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:14.909Z-34619",
+      "startedAt": "2026-08-15T19:29:26.054Z",
+      "finishedAt": "2026-08-15T19:29:37.504Z",
+      "totalSeconds": 2.623,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.857,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:26.054Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.969,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:26.916Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.797,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:27.891Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:45.771Z-35061",
+      "startedAt": "2026-08-15T19:29:57.302Z",
+      "finishedAt": "2026-08-15T19:30:08.702Z",
+      "totalSeconds": 2.63,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.872,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:57.302Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.987,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:58.178Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.771,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:59.170Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:30:15.227Z-35534",
+      "startedAt": "2026-08-15T19:30:26.555Z",
+      "finishedAt": "2026-08-15T19:30:38.216Z",
+      "totalSeconds": 2.9170000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.862,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:26.555Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.125,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:27.421Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.93,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:28.551Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:23:59.090Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 2.759,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.956,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:23:59.090Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.006,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:00.051Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.797,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:01.063Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:50:55.866Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 2.67,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.926,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:55.866Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.977,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:56.796Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.767,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:57.778Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:52:27.628Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 2.648,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.912,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:27.628Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.934,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:28.545Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.802,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:29.483Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:05:41.953Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 2.747,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.94,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:41.953Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.993,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:42.898Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.814,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:43.895Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:14:03.907Z-48994",
+      "startedAt": "2026-08-18T17:14:16.685Z",
+      "finishedAt": "2026-08-18T17:14:18.398Z",
+      "totalSeconds": 1.454,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.454,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:14:16.685Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:16:47.000Z-53419",
+      "startedAt": "2026-08-18T17:16:49.934Z",
+      "finishedAt": "2026-08-18T17:16:51.923Z",
+      "totalSeconds": 1.517,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.517,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:16:49.934Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:26:16.343Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 2.7649999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.921,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:16.343Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.013,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:17.269Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.831,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:18.286Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:42:33.566Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 3.168,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.063,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:33.566Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.22,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:34.633Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.885,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:35.858Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:53:19.478Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 3.609,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.972,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:19.478Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.138,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:20.455Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.499,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:21.597Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:41.566Z-46218",
+      "startedAt": "2026-08-18T18:22:00.761Z",
+      "finishedAt": "2026-08-18T18:22:51.808Z",
+      "totalSeconds": 3.1569999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.015,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:00.761Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.186,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:01.780Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.956,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:02.972Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:32:22.696Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 3.2169999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.066,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:22.696Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.205,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:23.767Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.946,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:24.977Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:41:54.452Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 2.856,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.94,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:54.452Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.065,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:55.397Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.851,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:56.466Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:44:09.870Z-70607",
+      "startedAt": "2026-08-18T18:44:24.556Z",
+      "finishedAt": "2026-08-18T18:45:10.338Z",
+      "totalSeconds": 3.112,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.028,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:24.556Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.138,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:25.589Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.946,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:26.732Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:47:27.075Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 5.197,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 2.946,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:27.075Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.269,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:30.026Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.982,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:31.301Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:02:48.553Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 3.417,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.172,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:48.553Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.234,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:49.731Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.011,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:50.970Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:09:39.051Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 3.149,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.033,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:39.051Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.153,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:40.089Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.963,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:41.247Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:14:41.867Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 3.162,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.043,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:41.867Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.186,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:42.915Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.933,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:44.105Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:18:01.699Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 3.227,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.055,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:01.699Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.219,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:02.760Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.953,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:03.983Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:24:24.619Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 3.21,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.048,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:24.619Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.19,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:25.672Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.972,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:26.867Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:57:55.907Z-69055",
+      "startedAt": "2026-08-18T19:58:00.521Z",
+      "finishedAt": "2026-08-18T19:58:11.732Z",
+      "totalSeconds": 9.132,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 5.299,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:58:00.521Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 2.323,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:58:06.713Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.51,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:58:09.904Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T20:00:00.000Z-syn0",
+      "startedAt": "2026-08-18T20:00:00.000Z",
+      "finishedAt": "2026-08-18T20:00:00.000Z",
+      "totalSeconds": 1.8,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:00:00.000Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T20:01:00.000Z-syn1",
+      "startedAt": "2026-08-18T20:01:00.000Z",
+      "finishedAt": "2026-08-18T20:01:00.000Z",
+      "totalSeconds": 1.8,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:01:00.000Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:01:00.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T20:02:00.000Z-syn2",
+      "startedAt": "2026-08-18T20:02:00.000Z",
+      "finishedAt": "2026-08-18T20:02:00.000Z",
+      "totalSeconds": 1.8,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:02:00.000Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T20:03:00.000Z-syn3",
+      "startedAt": "2026-08-18T20:03:00.000Z",
+      "finishedAt": "2026-08-18T20:03:00.000Z",
+      "totalSeconds": 1.8,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:03:00.000Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:03:00.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T20:04:00.000Z-syn4",
+      "startedAt": "2026-08-18T20:04:00.000Z",
+      "finishedAt": "2026-08-18T20:04:00.000Z",
+      "totalSeconds": 1.8,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:04:00.000Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:04:00.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T20:01:28.898Z-73039",
+      "startedAt": "2026-08-18T20:01:33.389Z",
+      "finishedAt": "2026-08-18T20:01:39.794Z",
+      "totalSeconds": 5.3069999999999995,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 2.013,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:01:33.389Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:01:36.203Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.494,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T20:01:38.215Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:51:34.277Z-29149",
+      "startedAt": "2026-08-18T21:51:51.497Z",
+      "finishedAt": "2026-08-18T21:52:40.511Z",
+      "totalSeconds": 6.603,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.046,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:51.497Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.59,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:52.548Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 3.967,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:54.142Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:10:10.952Z-47879",
+      "startedAt": "2026-08-18T22:10:34.275Z",
+      "finishedAt": "2026-08-18T22:10:36.798Z",
+      "totalSeconds": 2.105,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 2.105,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:10:34.275Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:21:15.994Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 6.9830000000000005,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.574,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:15.994Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 4.352,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:17.572Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.057,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:21.929Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:43:24.400Z-99725",
+      "startedAt": "2026-08-18T22:43:43.769Z",
+      "finishedAt": "2026-08-18T22:43:51.399Z",
+      "totalSeconds": 6.222,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 2.168,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:43:43.769Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 4.054,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:43:46.672Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:51:00.034Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 3.261,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.083,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:00.034Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.195,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:01.122Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.983,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:02.322Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:02:43.084Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 7.2589999999999995,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.082,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:43.084Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 5.162,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:44.171Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.015,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:49.337Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:10:40.095Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 3.619,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.414,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:40.095Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.225,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:41.515Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.98,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:42.745Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:50:20.888Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 3.4880000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.114,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:20.888Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.387,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:22.006Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.987,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:23.397Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:29:47.153Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 9.275000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 6.993,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:47.153Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.29,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:54.151Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.992,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:55.446Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:37:31.540Z-66401",
+      "startedAt": "2026-08-19T12:37:50.600Z",
+      "finishedAt": "2026-08-19T12:38:54.306Z",
+      "totalSeconds": 6.929,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.366,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:50.600Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 2.784,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:51.970Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 2.779,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:54.759Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:40:50.013Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 6.936,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.092,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:50.013Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.595,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:51.110Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 4.249,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:52.710Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:00:14.967Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 5.856999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 3.663,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:14.967Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.256,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:18.635Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.938,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:19.895Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:09:02.834Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 3.1980000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.072,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:02.834Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.168,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:03.910Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.958,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:05.083Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:18:12.468Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 6.789,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.075,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:12.468Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 2.18,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:13.547Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 3.534,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:15.732Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:48:48.241Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 4.273,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.376,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:48.241Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.301,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:49.622Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.596,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:50.928Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:56:51.088Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 6.504999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 4.43,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:51.088Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.142,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:55.522Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.933,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:56.669Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:04:29.206Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 6.442,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.06,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:29.206Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 2.505,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:30.270Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 2.877,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:32.779Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:24:26.329Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 3.203,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.055,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:26.329Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.164,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:27.389Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.984,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:28.558Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:52:41.462Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 3.1919999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.1,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:41.462Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.168,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:42.566Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.924,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:43.739Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:26:10.987Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 3.417,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.025,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:10.987Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.376,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:12.017Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.016,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:13.398Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:16:46.136Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.7569999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.955,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:46.136Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.994,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:47.096Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.808,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:48.095Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:19:26.177Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 8.103,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 4.307,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:26.177Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 1.313,
+          "status": "passed",
+          "retry": 1,
+          "startedAt": "2026-09-24T01:19:31.039Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.331,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:32.461Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 1.152,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:33.798Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:19:29.726Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.791,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.877,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:29.726Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 1.115,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:30.607Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.799,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:31.726Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:43.148Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.003,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:43.148Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:43.490Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:43.834Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:00:55.560Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 41.92,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 15.292,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:00:55.560Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 15.828,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:01:11.454Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 10.8,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:01:27.899Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:26:58.362Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 32.496,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "7243ad0b321ef32c22df-d090e488f3b55bc68197",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings tab › edits a non-secret setting in place, and masks/clears a secret setting",
+          "durationSeconds": 10.828,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:26:58.362Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-3a8080bc8f5c78529a42",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › export downloads the registry; editing then importing the export restores the original value",
+          "durationSeconds": 10.824,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:27:09.777Z"
+        },
+        {
+          "testId": "7243ad0b321ef32c22df-2c1cbbaafe369aec3e94",
+          "title": "chromium › admin-app-settings.spec.ts › admin app-settings bulk transfer (addendum-097) › an import containing an unknown key is rejected wholesale — nothing is applied, every failure is listed",
+          "durationSeconds": 10.844,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:27:21.194Z"
+        }
+      ]
+    }
+  ]
+}

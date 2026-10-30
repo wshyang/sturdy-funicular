@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/scoped-admin-org-boundary.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:30:02.286Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 3.9930000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d0a83dfee2a328f17aa-d39aa415be43d5a4b3c4",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › the Edit Roles scope picker offers Global vs per-org, and persists an org-scoped grant",
+          "durationSeconds": 2.806,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:02.286Z"
+        },
+        {
+          "testId": "0d0a83dfee2a328f17aa-c647c74d6378be77336e",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › a scoped admin does not gain global system visibility (addendum-211 leak regression)",
+          "durationSeconds": 1.187,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:05.096Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:30:21.942Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 4.016,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "0d0a83dfee2a328f17aa-d39aa415be43d5a4b3c4",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › the Edit Roles scope picker offers Global vs per-org, and persists an org-scoped grant",
+          "durationSeconds": 2.803,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:21.942Z"
+        },
+        {
+          "testId": "0d0a83dfee2a328f17aa-c647c74d6378be77336e",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › a scoped admin does not gain global system visibility (addendum-211 leak regression)",
+          "durationSeconds": 1.213,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:24.749Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:14:18.041Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 21.695,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d0a83dfee2a328f17aa-d39aa415be43d5a4b3c4",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › the Edit Roles scope picker offers Global vs per-org, and persists an org-scoped grant",
+          "durationSeconds": 10.965,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:18.041Z"
+        },
+        {
+          "testId": "0d0a83dfee2a328f17aa-c647c74d6378be77336e",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › a scoped admin does not gain global system visibility (addendum-211 leak regression)",
+          "durationSeconds": 10.73,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:29.621Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:40:11.436Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 21.689999999999998,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "0d0a83dfee2a328f17aa-d39aa415be43d5a4b3c4",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › the Edit Roles scope picker offers Global vs per-org, and persists an org-scoped grant",
+          "durationSeconds": 10.958,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:11.436Z"
+        },
+        {
+          "testId": "0d0a83dfee2a328f17aa-c647c74d6378be77336e",
+          "title": "chromium › scoped-admin-org-boundary.spec.ts › org-scoped admin grants (addendum-137 §4 / addendum-211) › a scoped admin does not gain global system visibility (addendum-211 leak regression)",
+          "durationSeconds": 10.732,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:22.993Z"
+        }
+      ]
+    }
+  ]
+}

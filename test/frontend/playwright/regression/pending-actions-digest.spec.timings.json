@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/pending-actions-digest.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:11:48.788Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 25.167,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 13.099,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:11:48.788Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 12.068,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:12:01.891Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:32:04.855Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 26.589,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 12.942,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:32:04.855Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 13.647,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:32:17.802Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:00:07.872Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 27.406,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 14.83,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:00:07.872Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 12.576,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:00:22.707Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:33:55.878Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 26.484,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 13.863,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:33:55.878Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 12.621,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:34:09.746Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:23:16.867Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 24.944,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 12.901,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:23:16.867Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 12.043,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:23:29.772Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:25:59.711Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 25.813000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 13.817,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:25:59.711Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 11.996,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:26:13.533Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:26:14.558Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 25.394,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 13.029,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:26:14.558Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 12.365,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:26:27.591Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:10:31.579Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 31.912999999999997,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 15.966,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:10:31.579Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 15.947,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:10:48.272Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:36:24.522Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 31.999000000000002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "390d09fb77ab4e7912f6-c5c3ef4bd314833f4d4b",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-in current-step reviewer receives exactly one digest naming their request",
+          "durationSeconds": 16.006,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:36:24.522Z"
+        },
+        {
+          "testId": "390d09fb77ab4e7912f6-d8b43796a8a706a9fea3",
+          "title": "chromium › pending-actions-digest.spec.ts › daily digest toggle → cron prompt → outbox (addendum-195) › opted-out reviewer stays silent through repeated health prompts (default-off pin)",
+          "durationSeconds": 15.993,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:36:41.260Z"
+        }
+      ]
+    }
+  ]
+}

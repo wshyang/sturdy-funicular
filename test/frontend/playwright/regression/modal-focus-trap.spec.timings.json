@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/modal-focus-trap.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:23:58.220Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 1.9509999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b84f4c8e2fd9f1d67576-d2a8b65703a5c7d998f0",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › opening a modal moves focus inside it and Tab cycles without escaping",
+          "durationSeconds": 0.94,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:58.220Z"
+        },
+        {
+          "testId": "b84f4c8e2fd9f1d67576-889a22f7b46c23f25bfb",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › closing a modal returns focus to the control that opened it",
+          "durationSeconds": 1.011,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:59.164Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:23:58.967Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 1.97,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b84f4c8e2fd9f1d67576-d2a8b65703a5c7d998f0",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › opening a modal moves focus inside it and Tab cycles without escaping",
+          "durationSeconds": 0.956,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:58.967Z"
+        },
+        {
+          "testId": "b84f4c8e2fd9f1d67576-889a22f7b46c23f25bfb",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › closing a modal returns focus to the control that opened it",
+          "durationSeconds": 1.014,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:59.927Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:57.498Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b84f4c8e2fd9f1d67576-d2a8b65703a5c7d998f0",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › opening a modal moves focus inside it and Tab cycles without escaping",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:57.498Z"
+        },
+        {
+          "testId": "b84f4c8e2fd9f1d67576-889a22f7b46c23f25bfb",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › closing a modal returns focus to the control that opened it",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:57.832Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:07:23.874Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 17.593,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b84f4c8e2fd9f1d67576-d2a8b65703a5c7d998f0",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › opening a modal moves focus inside it and Tab cycles without escaping",
+          "durationSeconds": 8.496,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:23.874Z"
+        },
+        {
+          "testId": "b84f4c8e2fd9f1d67576-889a22f7b46c23f25bfb",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › closing a modal returns focus to the control that opened it",
+          "durationSeconds": 9.097,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:32.881Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:33:17.391Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 17.579,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b84f4c8e2fd9f1d67576-d2a8b65703a5c7d998f0",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › opening a modal moves focus inside it and Tab cycles without escaping",
+          "durationSeconds": 8.483,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:17.391Z"
+        },
+        {
+          "testId": "b84f4c8e2fd9f1d67576-889a22f7b46c23f25bfb",
+          "title": "chromium › modal-focus-trap.spec.ts › AccessibleDialog focus trap (WCAG 2.4.3 / 2.1.2) › closing a modal returns focus to the control that opened it",
+          "durationSeconds": 9.096,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:26.384Z"
+        }
+      ]
+    }
+  ]
+}

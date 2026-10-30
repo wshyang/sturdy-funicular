@@ -1,0 +1,669 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-data.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:24:42.455Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 2.056,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.056,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:24:42.455Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:51:38.109Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 1.999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 1.999,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:51:38.109Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:53:09.167Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 2.054,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.054,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:53:09.167Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:06:26.185Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 2.097,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.097,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:06:26.185Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:27:01.377Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 2.54,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.54,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:27:01.377Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:43:22.080Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 2.241,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.241,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:43:22.080Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:54:05.342Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 2.201,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.201,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:54:05.342Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:41.566Z-46218",
+      "startedAt": "2026-08-18T18:22:45.524Z",
+      "finishedAt": "2026-08-18T18:22:51.808Z",
+      "totalSeconds": 5.926,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 5.926,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:45.524Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:33:06.980Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 2.697,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.697,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:33:06.980Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:42:39.079Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 2.111,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.111,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:42:39.079Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:48:18.919Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 2.815,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.815,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:48:18.919Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:03:39.065Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 2.232,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.232,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:03:39.065Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:10:32.031Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 2.204,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.204,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:10:32.031Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:15:27.917Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 2.295,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.295,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:15:27.917Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:18:49.433Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 2.146,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.146,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:18:49.433Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:25:08.155Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 2.121,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.121,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:25:08.155Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:22:12.916Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 2.793,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.793,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:22:12.916Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:51:47.539Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 2.781,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.781,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:51:47.539Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:03:40.724Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 2.799,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.799,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:03:40.724Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:11:33.248Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 2.243,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.243,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:11:33.248Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:51:08.156Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 4.772,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 4.772,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:51:08.156Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:30:44.622Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 2.229,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.229,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:30:44.622Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:37:31.540Z-66401",
+      "startedAt": "2026-08-19T12:38:50.488Z",
+      "finishedAt": "2026-08-19T12:38:54.306Z",
+      "totalSeconds": 3.458,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 3.458,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:38:50.488Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:41:47.681Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 2.228,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.228,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:41:47.681Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:01:08.170Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 2.112,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.112,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:01:08.170Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:09:53.791Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 2.247,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.247,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:53.791Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:19:10.325Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 2.176,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.176,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:19:10.325Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:49:42.193Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 4.32,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 4.32,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:49:42.193Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:57:46.166Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 3.142,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 3.142,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:57:46.166Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:05:19.677Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 2.275,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.275,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:05:19.677Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:25:12.175Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 4.315,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 4.315,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:25:12.175Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:53:29.718Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 2.348,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.348,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:53:29.718Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:26:59.624Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 2.155,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.155,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:59.624Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:17:28.718Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.028,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.028,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:17:28.718Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:20:15.170Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.036,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.036,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:20:15.170Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:20:12.597Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.043,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 2.043,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:20:12.597Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:45.942Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:45.942Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:02:57.896Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 11.04,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 11.04,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:02:57.896Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:28:51.290Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 10.998,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a63e00fa5227a3917363-7fac11a7cac4dc61f2c8",
+          "title": "chromium › admin-data.spec.ts › admin data tab › export downloads a JSON bundle, import restores it, reset reseeds demo data",
+          "durationSeconds": 10.998,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:28:51.290Z"
+        }
+      ]
+    }
+  ]
+}

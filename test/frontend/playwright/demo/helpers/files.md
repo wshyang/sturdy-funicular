@@ -1,0 +1,3 @@
+# test/frontend/playwright/demo/helpers/ directory files
+
+- `index.ts` — Demo-specific helpers (caption overlay re-export from `../../harness/captions.ts`, screenshot capture into `test_output/e2e/demo/`, 750ms pacing sourced from `../../harness/pacing.ts`, viewport-centering on all capture wrappers, `captureGlowElement` golden-pulse close-up, and the unified-harness `test`/`expect` re-export for one-import demo specs)

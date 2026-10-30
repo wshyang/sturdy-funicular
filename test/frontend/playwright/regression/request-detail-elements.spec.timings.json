@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/request-detail-elements.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T19:05:50.529Z-30331",
+      "startedAt": "2026-08-19T19:06:32.574Z",
+      "finishedAt": "2026-08-19T19:06:43.755Z",
+      "totalSeconds": 10.984,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7b015fb53a838445f9d-5cad597ba9ef2b533608",
+          "title": "chromium › request-detail-elements.spec.ts › §F request-detail-view elements › disclosures, next-action card, override gating, back navigation, and the error-state fallback",
+          "durationSeconds": 10.984,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:06:32.574Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:25:17.240Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 12.564,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7b015fb53a838445f9d-5cad597ba9ef2b533608",
+          "title": "chromium › request-detail-elements.spec.ts › §F request-detail-view elements › disclosures, next-action card, override gating, back navigation, and the error-state fallback",
+          "durationSeconds": 12.564,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:25:17.240Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:28:02.687Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 12.102,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7b015fb53a838445f9d-5cad597ba9ef2b533608",
+          "title": "chromium › request-detail-elements.spec.ts › §F request-detail-view elements › disclosures, next-action card, override gating, back navigation, and the error-state fallback",
+          "durationSeconds": 12.102,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:28:02.687Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:28:21.195Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 12.255,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7b015fb53a838445f9d-5cad597ba9ef2b533608",
+          "title": "chromium › request-detail-elements.spec.ts › §F request-detail-view elements › disclosures, next-action card, override gating, back navigation, and the error-state fallback",
+          "durationSeconds": 12.255,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:28:21.195Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:12:34.478Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.994,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a7b015fb53a838445f9d-5cad597ba9ef2b533608",
+          "title": "chromium › request-detail-elements.spec.ts › §F request-detail-view elements › disclosures, next-action card, override gating, back navigation, and the error-state fallback",
+          "durationSeconds": 15.994,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:12:34.478Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:38:27.718Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.004,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a7b015fb53a838445f9d-5cad597ba9ef2b533608",
+          "title": "chromium › request-detail-elements.spec.ts › §F request-detail-view elements › disclosures, next-action card, override gating, back navigation, and the error-state fallback",
+          "durationSeconds": 16.004,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:38:27.718Z"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1574 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/2fa.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-15T19:27:16.035Z-32388",
+      "startedAt": "2026-08-15T19:27:19.847Z",
+      "finishedAt": "2026-08-15T19:27:40.785Z",
+      "totalSeconds": 6.443,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.903,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:19.847Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.54,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:23.973Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:12.530Z-33236",
+      "startedAt": "2026-08-15T19:28:14.790Z",
+      "finishedAt": "2026-08-15T19:28:35.019Z",
+      "totalSeconds": 6.0329999999999995,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.493,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:14.790Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.54,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:18.386Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:46.042Z-33666",
+      "startedAt": "2026-08-15T19:28:48.361Z",
+      "finishedAt": "2026-08-15T19:29:09.046Z",
+      "totalSeconds": 6.069,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.493,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:48.361Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.576,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:51.964Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:14.909Z-34619",
+      "startedAt": "2026-08-15T19:29:17.238Z",
+      "finishedAt": "2026-08-15T19:29:37.504Z",
+      "totalSeconds": 5.904,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.437,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:17.238Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.467,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:20.776Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:45.771Z-35061",
+      "startedAt": "2026-08-15T19:29:48.101Z",
+      "finishedAt": "2026-08-15T19:30:08.702Z",
+      "totalSeconds": 6.128,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.555,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:48.101Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.573,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:51.762Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:30:15.227Z-35534",
+      "startedAt": "2026-08-15T19:30:17.551Z",
+      "finishedAt": "2026-08-15T19:30:38.216Z",
+      "totalSeconds": 6.103,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.65,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:17.551Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.453,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:21.308Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:23:48.988Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 6.404,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.939,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:23:48.988Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.465,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:23:53.686Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:09:12.846Z-92362",
+      "startedAt": "2026-08-18T15:09:18.646Z",
+      "finishedAt": "2026-08-18T15:09:29.896Z",
+      "totalSeconds": 8.035,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 8.035,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:09:18.646Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:50:46.320Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 6.369,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.996,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:46.320Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.373,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:50.545Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:52:18.448Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 6.109,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.637,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:18.448Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.472,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:22.194Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:05:32.303Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 6.466,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.025,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:32.303Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.441,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:36.547Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:14:03.907Z-48994",
+      "startedAt": "2026-08-18T17:14:06.812Z",
+      "finishedAt": "2026-08-18T17:14:18.398Z",
+      "totalSeconds": 6.760999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.103,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:14:06.812Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.658,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:14:11.110Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:26:06.376Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 6.801,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.187,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:06.376Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.614,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:10.805Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:42:22.605Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 7.139,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.586,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:22.605Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.553,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:27.540Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:53:08.251Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 7.373,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.674,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:08.251Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.699,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:13.641Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:12:30.609Z-31300",
+      "startedAt": "2026-08-18T18:12:37.530Z",
+      "finishedAt": "2026-08-18T18:12:44.415Z",
+      "totalSeconds": 5.347,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.347,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:12:37.530Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:13:00.000Z-cold1",
+      "startedAt": "2026-08-18T18:13:00.000Z",
+      "finishedAt": "2026-08-18T18:13:08.000Z",
+      "totalSeconds": 10.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:13:00.000Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:13:08.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:14:00.000Z-cold2",
+      "startedAt": "2026-08-18T18:14:00.000Z",
+      "finishedAt": "2026-08-18T18:14:08.000Z",
+      "totalSeconds": 10.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:14:00.000Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:14:08.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:15:00.000Z-cold3",
+      "startedAt": "2026-08-18T18:15:00.000Z",
+      "finishedAt": "2026-08-18T18:15:08.000Z",
+      "totalSeconds": 10.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:15:00.000Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:15:08.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:16:00.000Z-cold4",
+      "startedAt": "2026-08-18T18:16:00.000Z",
+      "finishedAt": "2026-08-18T18:16:08.000Z",
+      "totalSeconds": 10.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:16:00.000Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:16:08.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:17:00.000Z-cold5",
+      "startedAt": "2026-08-18T18:17:00.000Z",
+      "finishedAt": "2026-08-18T18:17:08.000Z",
+      "totalSeconds": 10.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 8,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:17:00.000Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:17:08.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:18:33.930Z-41371",
+      "startedAt": "2026-08-18T18:18:38.749Z",
+      "finishedAt": "2026-08-18T18:18:53.136Z",
+      "totalSeconds": 8.965,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.21,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:18:38.749Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.755,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:18:46.289Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:41.566Z-46218",
+      "startedAt": "2026-08-18T18:21:49.034Z",
+      "finishedAt": "2026-08-18T18:22:51.808Z",
+      "totalSeconds": 6.86,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.222,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:21:49.034Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.638,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:21:54.531Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:32:06.473Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 8.845,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.019,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:06.473Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.826,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:13.552Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:41:44.393Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 6.878,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.409,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:44.393Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.469,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:49.031Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:44:09.870Z-70607",
+      "startedAt": "2026-08-18T18:44:13.730Z",
+      "finishedAt": "2026-08-18T18:45:10.338Z",
+      "totalSeconds": 6.93,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.388,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:13.730Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.542,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:18.475Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:47:13.286Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 8.803999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.802,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:13.286Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 3.002,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:20.231Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:02:34.273Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 6.957000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.336,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:34.273Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.621,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:38.828Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:09:22.452Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 8.75,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.994,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:22.452Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.756,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:29.585Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:14:28.096Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 8.979,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.228,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:28.096Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.751,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:35.570Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:17:45.612Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 11.196,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.643,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:17:45.612Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 4.553,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:17:53.442Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:24:09.504Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 9.208,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.053,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:09.504Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 3.155,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:16.774Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:49:37.691Z-26216",
+      "startedAt": "2026-08-18T21:49:45.128Z",
+      "finishedAt": "2026-08-18T21:49:57.382Z",
+      "totalSeconds": 11.147,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.433,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:49:45.128Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 4.714,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:49:51.965Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:51:34.277Z-29149",
+      "startedAt": "2026-08-18T21:51:39.366Z",
+      "finishedAt": "2026-08-18T21:52:40.511Z",
+      "totalSeconds": 7.875,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.186,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:39.366Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.689,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:45.039Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:10:10.952Z-47879",
+      "startedAt": "2026-08-18T22:10:20.076Z",
+      "finishedAt": "2026-08-18T22:10:36.798Z",
+      "totalSeconds": 9.084,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.721,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:10:20.076Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.363,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:10:28.131Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:21:03.116Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 7.54,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.279,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:03.116Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.261,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:09.866Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:43:24.400Z-99725",
+      "startedAt": "2026-08-18T22:43:30.587Z",
+      "finishedAt": "2026-08-18T22:43:51.399Z",
+      "totalSeconds": 9.26,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 7.08,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:43:30.587Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.18,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:43:37.884Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:50:43.528Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 11.142,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.086,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:50:43.528Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 5.056,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:50:50.740Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:02:31.417Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 7.01,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 4.668,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:31.417Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.342,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:36.993Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:10:27.952Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 7.901,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.33,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:27.952Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.571,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:34.293Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:50:04.929Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 8.364,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.12,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:04.929Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.244,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:12.194Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:21:58.828Z-40741",
+      "startedAt": "2026-08-19T12:22:07.807Z",
+      "finishedAt": "2026-08-19T12:22:18.130Z",
+      "totalSeconds": 7.523,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 7.523,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:22:07.807Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:25:09.627Z-46355",
+      "startedAt": "2026-08-19T12:25:12.507Z",
+      "finishedAt": "2026-08-19T12:25:26.367Z",
+      "totalSeconds": 12.209,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 7.486,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:25:12.507Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 4.723,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:25:21.246Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:28:48.927Z-51576",
+      "startedAt": "2026-08-19T12:28:56.529Z",
+      "finishedAt": "2026-08-19T12:29:05.972Z",
+      "totalSeconds": 8.225,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.133,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:28:56.529Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.092,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:03.770Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:29:34.152Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 8.283999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.241,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:34.152Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.043,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:41.385Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:37:31.540Z-66401",
+      "startedAt": "2026-08-19T12:37:37.565Z",
+      "finishedAt": "2026-08-19T12:38:54.306Z",
+      "totalSeconds": 8.999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.597,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:37.565Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.402,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:44.378Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:40:36.392Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 9.749,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 7.464,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:36.392Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.285,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:44.079Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:58:47.704Z-89232",
+      "startedAt": "2026-08-19T12:58:57.551Z",
+      "finishedAt": "2026-08-19T12:59:12.201Z",
+      "totalSeconds": 8.776,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.328,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:58:57.551Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.448,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:59:05.261Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:00:02.901Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 7.414,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.374,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:02.901Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.04,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:08.403Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:08:50.453Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 8.362,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.816,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:08:50.453Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 4.546,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:08:54.471Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:18:00.854Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 7.555,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.564,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:00.854Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 1.991,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:06.791Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:48:35.081Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 9.05,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.814,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:35.081Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.236,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:42.205Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:56:37.834Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 7.9670000000000005,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.801,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:37.834Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.166,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:44.504Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:04:16.699Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 7.329000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.017,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:16.699Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.312,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:23.137Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:24:08.978Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 8.534,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 5.9,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:08.978Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.634,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:15.968Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:52:25.502Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 8.274000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 6.152,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:25.502Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.122,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:32.736Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:25:58.730Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 7.547,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.743,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:25:58.730Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 3.804,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:02.667Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:16:37.430Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 5.76,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.697,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:37.430Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.063,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:41.248Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:19:14.863Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 5.707,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.689,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:14.863Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.018,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:20.776Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:19:18.099Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 6.163,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 3.866,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:18.099Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 2.297,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:24.073Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:36.856Z-5270",
+      "startedAt": "2026-10-28T16:29:38.365Z",
+      "finishedAt": "2026-10-28T16:29:38.537Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:38.365Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:41.408Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:41.408Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:41.749Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T16:59:55.215Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 35.394000000000005,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 15.66,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:59:55.215Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 19.734,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:00:11.542Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:25:57.687Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 35.604,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "5eb8f5c680c0557dcd49-8d8624dbe745e164a736",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › first login enrolls via the scanned QR, then a later login verifies against it",
+          "durationSeconds": 15.842,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:25:57.687Z"
+        },
+        {
+          "testId": "5eb8f5c680c0557dcd49-7a15366c4b10da021e08",
+          "title": "chromium › 2fa.spec.ts › two-factor authentication › a wrong code on the verify gate is rejected inline and does not reach the dashboard",
+          "durationSeconds": 19.762,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:26:14.303Z"
+        }
+      ]
+    }
+  ]
+}

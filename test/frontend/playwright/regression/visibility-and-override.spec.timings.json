@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/visibility-and-override.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:38:36.404Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 36.245,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 36.245,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:38:36.404Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:06:42.873Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 34.652,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 34.652,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:06:42.873Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T17:26:43.090Z-11457",
+      "startedAt": "2026-08-19T17:28:24.395Z",
+      "finishedAt": "2026-08-19T17:28:43.175Z",
+      "totalSeconds": 18.435,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 18.435,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:28:24.395Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:39:49.250Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 17.688,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 17.688,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:39:49.250Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:28:39.567Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 18.336,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 18.336,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:28:39.567Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:31:37.096Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 19.31,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 19.31,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:31:37.096Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:31:58.094Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 19.042,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 19.042,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:31:58.094Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:16:23.487Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.949,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 15.949,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:16:23.487Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:42:16.899Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.974,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8fe949b789142b19a7cc-f85da5dfe2f9dc392dc0",
+          "title": "chromium › visibility-and-override.spec.ts › search visibility fix + emergency override › past-step reviewer retains search access; downstream reviewer overrides a stuck step",
+          "durationSeconds": 15.974,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:42:16.899Z"
+        }
+      ]
+    }
+  ]
+}

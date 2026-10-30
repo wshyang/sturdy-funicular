@@ -1,0 +1,380 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/owner-elements.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:46:28.905Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 29.81,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 29.81,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:28.905Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:20.681Z-89706",
+      "startedAt": "2026-08-19T12:59:23.259Z",
+      "finishedAt": "2026-08-19T12:59:40.618Z",
+      "totalSeconds": 17.01,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 17.01,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:59:23.259Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:03.904Z-97229",
+      "startedAt": "2026-08-19T13:08:16.298Z",
+      "finishedAt": "2026-08-19T13:08:35.250Z",
+      "totalSeconds": 17.919,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 17.919,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:08:16.298Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:14:29.157Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 16.188,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 16.188,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:29.157Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:23:55.541Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 16.752,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 16.752,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:55.541Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:10:04.697Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 18.932,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 18.932,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:10:04.697Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:30:12.896Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 16.436,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 16.436,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:30:12.896Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:58:04.626Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 25.825,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 25.825,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:58:04.626Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T17:26:43.090Z-11457",
+      "startedAt": "2026-08-19T17:26:53.595Z",
+      "finishedAt": "2026-08-19T17:28:43.175Z",
+      "totalSeconds": 30.073,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 30.073,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:26:53.595Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T17:58:59.806Z-56429",
+      "startedAt": "2026-08-19T17:59:03.497Z",
+      "finishedAt": "2026-08-19T18:00:18.526Z",
+      "totalSeconds": 24.353,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 24.353,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:59:03.497Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:04:23.371Z-63407",
+      "startedAt": "2026-08-19T18:04:26.219Z",
+      "finishedAt": "2026-08-19T18:05:40.733Z",
+      "totalSeconds": 23.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 23.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:04:26.219Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:06:51.576Z-67761",
+      "startedAt": "2026-08-19T18:06:54.636Z",
+      "finishedAt": "2026-08-19T18:07:53.568Z",
+      "totalSeconds": 20.366,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 20.366,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:06:54.636Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:21:18.680Z-82922",
+      "startedAt": "2026-08-19T18:21:20.885Z",
+      "finishedAt": "2026-08-19T18:22:20.397Z",
+      "totalSeconds": 31.891,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 31.891,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:21:20.885Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:22:59.352Z-85092",
+      "startedAt": "2026-08-19T18:23:02.158Z",
+      "finishedAt": "2026-08-19T18:23:27.974Z",
+      "totalSeconds": 23.793,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 23.793,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:23:02.158Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:24:55.298Z-86822",
+      "startedAt": "2026-08-19T18:24:58.063Z",
+      "finishedAt": "2026-08-19T18:25:47.818Z",
+      "totalSeconds": 22.533,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 22.533,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:24:58.063Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:31:52.695Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 27.204,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 27.204,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:52.695Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:05:50.529Z-30331",
+      "startedAt": "2026-08-19T19:05:52.663Z",
+      "finishedAt": "2026-08-19T19:06:43.755Z",
+      "totalSeconds": 37.273,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 37.273,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:05:52.663Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:21:29.531Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 17.504,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 17.504,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:29.531Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:24:18.721Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 17.956,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 17.956,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:18.721Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:24:19.766Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 23.755,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 23.755,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:19.766Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:09:04.449Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.957,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 15.957,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:09:04.449Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:34:58.102Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.963,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "b5859dc9391b5261b792-6999fd0605dae8766dff",
+          "title": "chromium › owner-elements.spec.ts › §E owner / delegate / team-admin element gates › reject notes refusals, delegate window rules, roster self-lock, and the inverted-range statistics refusal",
+          "durationSeconds": 15.963,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:34:58.102Z"
+        }
+      ]
+    }
+  ]
+}

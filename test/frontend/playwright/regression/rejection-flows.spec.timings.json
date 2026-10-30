@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/rejection-flows.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:12:45.293Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 27.27,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 27.27,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:12:45.293Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:33:03.731Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 27.815,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 27.815,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:33:03.731Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:01:06.873Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 27.614,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 27.614,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:01:06.873Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:34:54.926Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 28.863,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 28.863,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:34:54.926Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:24:12.544Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 27.565,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 27.565,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:24:12.544Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:26:57.242Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 27.874,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 27.874,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:26:57.242Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:27:11.709Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 28.413,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 28.413,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:27:11.709Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:11:21.624Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.922,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 15.922,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:11:21.624Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:37:14.705Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.037,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "2c71bd00f2f4daf442db-f6f3c763be98debbd448",
+          "title": "chromium › rejection-flows.spec.ts › rejection chains › three rejection chains share one actor/team roster",
+          "durationSeconds": 16.037,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:37:14.705Z"
+        }
+      ]
+    }
+  ]
+}

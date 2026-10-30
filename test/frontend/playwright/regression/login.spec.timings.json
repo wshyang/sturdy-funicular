@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/login.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:56:28.841Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 3.425,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.587,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:56:28.841Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.838,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:56:30.432Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:55:37.704Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 2.643,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.384,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:55:37.704Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.259,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:55:39.093Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:46:07.892Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 4.574999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 2.162,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:07.892Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 2.413,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:10.058Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:14:07.598Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 2.935,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.335,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:07.598Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.6,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:08.937Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:23:34.674Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 2.593,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.347,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:34.674Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.246,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:36.025Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:09:45.261Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 2.482,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.253,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:45.261Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.229,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:46.518Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:50.588Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 5.48,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.621,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:50.588Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 3.859,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:52.213Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:57:42.647Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 2.5759999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.319,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:42.647Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.257,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:43.970Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:31:30.706Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 2.746,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.253,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:30.706Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.493,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:31.964Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:21:11.155Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.38,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.247,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:11.155Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.133,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:12.408Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:23:55.844Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.362,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.243,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:55.844Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.119,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:23:57.092Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:23:56.575Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.379,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.241,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:56.575Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.138,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:23:57.820Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:56.826Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:56.826Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:57.159Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:31:18.520Z-10020",
+      "startedAt": "2026-10-28T16:31:19.512Z",
+      "finishedAt": "2026-10-28T16:31:20.038Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:31:19.512Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:31:19.949Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:31:26.094Z-10287",
+      "startedAt": "2026-10-28T16:31:26.941Z",
+      "finishedAt": "2026-10-28T16:31:27.367Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:31:26.941Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:31:27.282Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:32:00.647Z-10763",
+      "startedAt": "2026-10-28T16:32:01.871Z",
+      "finishedAt": "2026-10-28T16:32:21.311Z",
+      "totalSeconds": 18.52,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 9.629,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:32:01.871Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 8.891,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:32:12.165Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:32:27.249Z-11228",
+      "startedAt": "2026-10-28T16:32:28.132Z",
+      "finishedAt": "2026-10-28T16:32:46.956Z",
+      "totalSeconds": 18.032,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 9.045,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:32:28.132Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 8.987,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:32:37.705Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:38:55.892Z-28562",
+      "startedAt": "2026-10-28T16:38:57.210Z",
+      "finishedAt": "2026-10-28T16:39:29.460Z",
+      "totalSeconds": 30.986,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 15.567,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:38:57.210Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 15.419,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:39:13.588Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:42:02.720Z-44109",
+      "startedAt": "2026-10-28T16:42:03.848Z",
+      "finishedAt": "2026-10-28T16:43:03.132Z",
+      "totalSeconds": 57.593999999999994,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 27.781,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:42:03.848Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 29.813,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:42:32.697Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:43:37.901Z-48355",
+      "startedAt": "2026-10-28T16:43:40.386Z",
+      "finishedAt": "2026-10-28T16:43:54.945Z",
+      "totalSeconds": 13.725,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 12.638,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:43:40.386Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.087,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:43:53.708Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:57:01.988Z-80362",
+      "startedAt": "2026-10-28T16:57:03.554Z",
+      "finishedAt": "2026-10-28T16:57:18.116Z",
+      "totalSeconds": 13.715,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 12.626,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:57:03.554Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.089,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:57:16.873Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:42.645Z-86788",
+      "startedAt": "2026-10-28T16:59:44.092Z",
+      "finishedAt": "2026-10-28T16:59:47.139Z",
+      "totalSeconds": 2.787,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.505,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:59:44.092Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.282,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:59:45.800Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:07:21.777Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 2.082,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.076,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:21.777Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.006,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:07:22.858Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:33:15.256Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 2.12,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "41d3fd2474a19feb00a1-3fe1a950de3af23677b3",
+          "title": "chromium › login.spec.ts › login › user logs in successfully and reaches the dashboard",
+          "durationSeconds": 1.098,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:15.256Z"
+        },
+        {
+          "testId": "41d3fd2474a19feb00a1-80c609fa7a672930ff92",
+          "title": "chromium › login.spec.ts › login › wrong password shows an inline error and does not log in",
+          "durationSeconds": 1.022,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:33:16.359Z"
+        }
+      ]
+    }
+  ]
+}

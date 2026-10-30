@@ -1,0 +1,732 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/admin-user-modals.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:04:43.095Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 3.4450000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.985,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:43.095Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.966,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:44.085Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.494,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:45.057Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:11:37.555Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 5.954000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 3.357,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:37.555Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 1.037,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:40.917Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.56,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:41.959Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:16:29.960Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 3.3440000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.032,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:16:29.960Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.95,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:16:30.998Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.362,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:16:31.952Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:19:55.653Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 3.3419999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.009,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:55.653Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.97,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:56.668Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.363,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:57.643Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:26:13.249Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 3.4829999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.079,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:13.249Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 1.015,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:14.333Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.389,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:15.354Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:52:54.942Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 7.173,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.046,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:52:54.942Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 1.022,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:52:55.993Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 5.105,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:52:57.020Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:52:20.689Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 3.508,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.988,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:20.689Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.954,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:21.682Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.566,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:22.641Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:42:51.003Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 3.2969999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.027,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:51.003Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.903,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:52.034Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.367,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:52.943Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:02:13.621Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 3.222,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.976,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:13.621Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.938,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:14.601Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.308,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:15.544Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:10:59.236Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 3.2939999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.93,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:10:59.236Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.938,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:11:00.171Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.426,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:11:01.115Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:20:15.103Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 3.285,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.965,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:15.103Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.965,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:16.073Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.355,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:17.043Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:50:57.128Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 3.403,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.029,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:57.128Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.943,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:58.161Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.431,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:50:59.109Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:06:22.950Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 3.29,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.941,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:22.950Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.943,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:23.896Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.406,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:24.844Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:26:20.755Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 4.529,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.402,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:26:20.755Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 1.305,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:26:22.164Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.822,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:26:23.476Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:54:33.527Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 3.346,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.033,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:54:33.527Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.923,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:54:34.565Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.39,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:54:35.492Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:28:02.564Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 4.188,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 1.027,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:02.564Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.96,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:03.596Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 2.201,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:04.560Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:18:30.173Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.928,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.829,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:30.173Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.817,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:31.007Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.282,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:31.829Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:21:15.760Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.8280000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.815,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:15.760Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.793,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:16.580Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.22,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:17.378Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:21:13.109Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.846,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.822,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:13.109Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.785,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:13.935Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 1.239,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:14.724Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:48.756Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.003,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:48.756Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:49.099Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:49.442Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:04:39.833Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 29.419,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 10.002,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:04:39.833Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 8.577,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:04:50.350Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 10.84,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:04:59.524Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:30:33.288Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 29.422,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "8cbc09c6481f828f1ff3-e59705bafaac90b963c6",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Edit Roles opens the role picker instead of crashing to a black screen",
+          "durationSeconds": 10.009,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:30:33.288Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-b32687eda04c6a959b4d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › Invite User modal is absent until opened, and closes on demand",
+          "durationSeconds": 8.581,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:30:43.821Z"
+        },
+        {
+          "testId": "8cbc09c6481f828f1ff3-46d42f29749aba16535d",
+          "title": "chromium › admin-user-modals.spec.ts › admin users modals — regression › CSV bulk invite: template, staged pre-flight flags, sequential invites + org-scoped grants PUT, results download",
+          "durationSeconds": 10.832,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:30:53.016Z"
+        }
+      ]
+    }
+  ]
+}

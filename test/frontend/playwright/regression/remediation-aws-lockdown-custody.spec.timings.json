@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/remediation-aws-lockdown-custody.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:13:13.114Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 33.041,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 16.516,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:13:13.114Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 16.525,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:13:29.635Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:33:31.566Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 17.679,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 15.988,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:33:31.566Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.691,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:33:47.559Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:01:34.583Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 20.627000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 16.257,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:01:34.583Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 4.37,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:01:50.846Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:35:23.811Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 17.444000000000003,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 15.88,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:35:23.811Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.564,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:35:39.696Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:24:40.130Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 17.538,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 16.01,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:24:40.130Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.528,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:24:56.145Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:27:25.185Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 17.543999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 16.016,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:27:25.185Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.528,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:27:41.206Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:27:40.147Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 20.871,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 19.261,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:27:40.147Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 1.61,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:27:59.412Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:11:38.284Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 16.102,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 16.102,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:11:38.284Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 0,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:11:54.810Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:37:31.497Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.943,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "80695800f1638b47e4ce-144b1433c1f5ca1d3ac7",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › declared API-managed assets enter custody while exchange UI stays absent",
+          "durationSeconds": 15.943,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:37:31.497Z"
+        },
+        {
+          "testId": "80695800f1638b47e4ce-2630b4f5f533c2c3ff87",
+          "title": "chromium › remediation-aws-lockdown-custody.spec.ts › remediation exercise — AWS lockdown custody fallback › oversized evidence is rejected and does not put the asset into exception state",
+          "durationSeconds": 0,
+          "status": "skipped",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:37:47.864Z"
+        }
+      ]
+    }
+  ]
+}

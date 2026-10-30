@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/orgs.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:46:15.166Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 3.094,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 1.128,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:15.166Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 1.966,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:46:16.299Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:14:14.935Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 3.231,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 1.16,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:14.935Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 2.071,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:14:16.100Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:23:40.273Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 4.335,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 1.09,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:40.273Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 3.245,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:23:41.368Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:09:50.529Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 3.441,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 1.123,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:50.529Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 2.318,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:09:51.657Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:29:59.024Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 3.1500000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 1.11,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:29:59.024Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 2.04,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:30:00.138Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:57:48.424Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 5.633,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 3.555,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:48.424Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 2.078,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:57:51.984Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:31:38.476Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 3.2540000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 1.139,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:38.476Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 2.115,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:31:39.620Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:21:16.120Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 2.879,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 1.014,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:16.120Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 1.865,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:21:17.140Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:24:05.110Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 3.025,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 0.888,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:05.110Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 2.137,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:24:06.003Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:24:05.869Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 2.771,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 0.914,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:05.869Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 1.857,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:24:06.787Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:08:24.623Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 21.89,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 10.964,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:08:24.623Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 10.926,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:08:36.218Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:34:18.160Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 21.884,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "51b144f1e0a9b0ba6660-ab67f4e9f08170f55ab8",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › superadmin creates the Default organisation; duplicate live names are rejected",
+          "durationSeconds": 10.96,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:34:18.160Z"
+        },
+        {
+          "testId": "51b144f1e0a9b0ba6660-4ff3385c935f7be37568",
+          "title": "chromium › orgs.spec.ts › organisations tab + approval-time org assignment (addendum-109) › approves a pending signup into the Default organisation; its chip renders on the user row",
+          "durationSeconds": 10.924,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:34:29.741Z"
+        }
+      ]
+    }
+  ]
+}

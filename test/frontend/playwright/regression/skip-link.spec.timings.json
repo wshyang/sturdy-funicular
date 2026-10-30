@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/skip-link.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:37:03.744Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 13.004000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 0.883,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:37:03.744Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 12.121,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:37:04.632Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:05:04.701Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 13.222000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 1.14,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:05:04.701Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 12.082,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:05:05.846Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:38:35.373Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 12.424,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 0.703,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:35.373Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 11.721,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:38:36.081Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:27:26.060Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 12.366,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 0.721,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:26.060Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 11.645,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:27:26.786Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:30:17.279Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 13.293000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 0.698,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:17.279Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 12.595,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:30:17.981Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:30:37.619Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 13.051,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 0.733,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:37.619Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 12.318,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:30:38.356Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:14:52.860Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 16.538,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 0.638,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:52.860Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 15.9,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:14:53.503Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:40:46.278Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 16.512,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "fa172f6935f932c784c9-81272be0064f3ddea580",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › global admin dashboard: first Tab focuses the skip link, Enter lands in the main region",
+          "durationSeconds": 0.615,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:46.278Z"
+        },
+        {
+          "testId": "fa172f6935f932c784c9-60ab545c28fbb8bb0801",
+          "title": "chromium › skip-link.spec.ts › skip-to-content link (addendum-193 F-18; addendum-196 coverage) › vendor reviewer dashboard with a populated queue: same keyboard journey",
+          "durationSeconds": 15.897,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:40:46.898Z"
+        }
+      ]
+    }
+  ]
+}

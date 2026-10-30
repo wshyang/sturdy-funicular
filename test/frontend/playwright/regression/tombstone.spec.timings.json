@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/tombstone.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:38:06.196Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 3.115,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 3.115,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:38:06.196Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T17:06:04.571Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 3.057,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 3.057,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T17:06:04.571Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:39:30.618Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 3.093,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 3.093,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:39:30.618Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:28:20.399Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 3.099,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 3.099,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:28:20.399Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:31:17.636Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 2.926,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 2.926,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:31:17.636Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:31:38.121Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 3.228,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 3.228,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:31:38.121Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:15:43.530Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 20.062,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 20.062,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:15:43.530Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:41:36.831Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 19.7,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "a7991716c05c985e0d5d-b585080d367a98fe40b4",
+          "title": "chromium › tombstone.spec.ts › tombstone (deactivate) action › deactivating a user invalidates their existing session and blocks future login",
+          "durationSeconds": 19.7,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:41:36.831Z"
+        }
+      ]
+    }
+  ]
+}

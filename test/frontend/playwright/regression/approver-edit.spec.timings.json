@@ -1,0 +1,397 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/approver-edit.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:04:46.577Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 24.849,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 24.849,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:04:46.577Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:11:43.546Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 13.933,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.933,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:11:43.546Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:16:33.346Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 15.267,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 15.267,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:16:33.346Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:19:59.039Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 13.669,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.669,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:19:59.039Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:26:16.778Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 13.792,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.792,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:26:16.778Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:53:02.592Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 14.257,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 14.257,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:53:02.592Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:52:24.239Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 14.189,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 14.189,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:52:24.239Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:42:54.337Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 14.136,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 14.136,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:42:54.337Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:02:16.876Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 14.072,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 14.072,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:02:16.876Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:11:02.570Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 13.78,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.78,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:11:02.570Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:20:18.447Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 13.745,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.745,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:20:18.447Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:51:00.567Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 13.967,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.967,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:51:00.567Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:06:26.284Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 13.654,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.654,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:06:26.284Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:26:25.338Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 19.368,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 19.368,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:26:25.338Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:54:36.913Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 13.561,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.561,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:54:36.913Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:28:06.803Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 14.993,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 14.993,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:28:06.803Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:18:33.120Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 13.193,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.193,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:18:33.120Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-20T03:37:39.241Z-59655",
+      "startedAt": "2026-08-20T03:37:46.032Z",
+      "finishedAt": "2026-08-20T03:38:17.910Z",
+      "totalSeconds": 14.94,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 14.94,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-20T03:37:46.032Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:21:18.610Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 13.44,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.44,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:21:18.610Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:21:15.972Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 13.894,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 13.894,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:21:15.972Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:49.802Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.001,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:49.802Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:05:10.954Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 15.94,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 15.94,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:05:10.954Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:31:04.462Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 15.973,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "4742125b17dd028df22b-4d8ba25a54ba645ac0ed",
+          "title": "chromium › approver-edit.spec.ts › approver in-cycle edit › agency L1 approver edits justification/SR number/credential item while the request is at their step",
+          "durationSeconds": 15.973,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:31:04.462Z"
+        }
+      ]
+    }
+  ]
+}

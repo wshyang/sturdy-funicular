@@ -1,0 +1,1415 @@
+{
+  "version": 1,
+  "suiteFile": "test/frontend/playwright/regression/accept-invite.spec.ts",
+  "runs": [
+    {
+      "runId": "2026-08-15T19:27:16.035Z-32388",
+      "startedAt": "2026-08-15T19:27:26.524Z",
+      "finishedAt": "2026-08-15T19:27:40.785Z",
+      "totalSeconds": 1.864,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.467,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:26.524Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.397,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:27:27.996Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:12.530Z-33236",
+      "startedAt": "2026-08-15T19:28:20.939Z",
+      "finishedAt": "2026-08-15T19:28:35.019Z",
+      "totalSeconds": 1.8439999999999999,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.46,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:20.939Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.384,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:22.404Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:28:46.042Z-33666",
+      "startedAt": "2026-08-15T19:28:54.552Z",
+      "finishedAt": "2026-08-15T19:29:09.046Z",
+      "totalSeconds": 1.838,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.434,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:54.552Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.404,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:28:55.991Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:14.909Z-34619",
+      "startedAt": "2026-08-15T19:29:23.253Z",
+      "finishedAt": "2026-08-15T19:29:37.504Z",
+      "totalSeconds": 1.879,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.469,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:23.253Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.41,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:24.727Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:29:45.771Z-35061",
+      "startedAt": "2026-08-15T19:29:54.346Z",
+      "finishedAt": "2026-08-15T19:30:08.702Z",
+      "totalSeconds": 2.0469999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.636,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:54.346Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.411,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:29:55.987Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-15T19:30:15.227Z-35534",
+      "startedAt": "2026-08-15T19:30:23.773Z",
+      "finishedAt": "2026-08-15T19:30:38.216Z",
+      "totalSeconds": 1.869,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.46,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:23.773Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.409,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-15T19:30:25.238Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T13:23:45.563Z-21303",
+      "startedAt": "2026-08-18T13:23:56.164Z",
+      "finishedAt": "2026-08-18T13:25:04.614Z",
+      "totalSeconds": 1.962,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.534,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:23:56.164Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.428,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T13:23:57.702Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:50:43.962Z-41136",
+      "startedAt": "2026-08-18T15:50:52.930Z",
+      "finishedAt": "2026-08-18T15:52:00.906Z",
+      "totalSeconds": 2.002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.524,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:52.930Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.478,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:50:54.459Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T15:52:15.978Z-42057",
+      "startedAt": "2026-08-18T15:52:24.676Z",
+      "finishedAt": "2026-08-18T15:53:31.813Z",
+      "totalSeconds": 1.989,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.562,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:24.676Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.427,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T15:52:26.243Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T16:05:29.786Z-62209",
+      "startedAt": "2026-08-18T16:05:39.003Z",
+      "finishedAt": "2026-08-18T16:06:49.714Z",
+      "totalSeconds": 1.994,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.585,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:39.003Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.409,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T16:05:40.593Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:14:03.907Z-48994",
+      "startedAt": "2026-08-18T17:14:13.779Z",
+      "finishedAt": "2026-08-18T17:14:18.398Z",
+      "totalSeconds": 1.9509999999999998,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.537,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:14:13.779Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.414,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:14:15.321Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:26:03.452Z-62903",
+      "startedAt": "2026-08-18T17:26:13.432Z",
+      "finishedAt": "2026-08-18T17:27:48.640Z",
+      "totalSeconds": 1.986,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.532,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:13.432Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.454,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:26:14.968Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:42:17.797Z-96190",
+      "startedAt": "2026-08-18T17:42:30.115Z",
+      "finishedAt": "2026-08-18T17:43:40.061Z",
+      "totalSeconds": 2.347,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.781,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:30.115Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.566,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:42:31.901Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T17:52:58.525Z-14603",
+      "startedAt": "2026-08-18T17:53:16.376Z",
+      "finishedAt": "2026-08-18T17:54:54.240Z",
+      "totalSeconds": 2.1,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.65,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:16.376Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.45,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T17:53:18.031Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:18:33.930Z-41371",
+      "startedAt": "2026-08-18T18:18:49.195Z",
+      "finishedAt": "2026-08-18T18:18:53.136Z",
+      "totalSeconds": 3.607,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 3.607,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:18:49.195Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:20:00.000Z-cold1",
+      "startedAt": "2026-08-18T18:20:00.000Z",
+      "finishedAt": "2026-08-18T18:20:05.000Z",
+      "totalSeconds": 5.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:20:00.000Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:20:05.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:00.000Z-cold2",
+      "startedAt": "2026-08-18T18:21:00.000Z",
+      "finishedAt": "2026-08-18T18:21:05.000Z",
+      "totalSeconds": 5.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:21:00.000Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:21:05.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:22:00.000Z-cold3",
+      "startedAt": "2026-08-18T18:22:00.000Z",
+      "finishedAt": "2026-08-18T18:22:05.000Z",
+      "totalSeconds": 5.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:00.000Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:22:05.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:23:00.000Z-cold4",
+      "startedAt": "2026-08-18T18:23:00.000Z",
+      "finishedAt": "2026-08-18T18:23:05.000Z",
+      "totalSeconds": 5.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:23:00.000Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:23:05.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:24:00.000Z-cold5",
+      "startedAt": "2026-08-18T18:24:00.000Z",
+      "finishedAt": "2026-08-18T18:24:05.000Z",
+      "totalSeconds": 5.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:24:00.000Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.5,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:24:05.000Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:21:41.566Z-46218",
+      "startedAt": "2026-08-18T18:21:57.184Z",
+      "finishedAt": "2026-08-18T18:22:51.808Z",
+      "totalSeconds": 2.3890000000000002,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.792,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:21:57.184Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.597,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:21:58.982Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:32:00.143Z-56576",
+      "startedAt": "2026-08-18T18:32:16.639Z",
+      "finishedAt": "2026-08-18T18:34:11.481Z",
+      "totalSeconds": 4.98,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 3.823,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:16.639Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 1.157,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:32:20.468Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:41:41.927Z-69104",
+      "startedAt": "2026-08-18T18:41:51.513Z",
+      "finishedAt": "2026-08-18T18:43:34.934Z",
+      "totalSeconds": 1.93,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.514,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:51.513Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.416,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:41:53.033Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:44:09.870Z-70607",
+      "startedAt": "2026-08-18T18:44:21.037Z",
+      "finishedAt": "2026-08-18T18:45:10.338Z",
+      "totalSeconds": 2.345,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.877,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:21.037Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.468,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:44:22.919Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T18:47:03.741Z-74728",
+      "startedAt": "2026-08-18T18:47:23.580Z",
+      "finishedAt": "2026-08-18T18:49:37.120Z",
+      "totalSeconds": 2.302,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.673,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:23.580Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.629,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T18:47:25.258Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:02:28.519Z-548",
+      "startedAt": "2026-08-18T19:02:41.498Z",
+      "finishedAt": "2026-08-18T19:05:13.010Z",
+      "totalSeconds": 3.021,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 2.005,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:41.498Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 1.016,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:02:43.508Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:09:11.949Z-11941",
+      "startedAt": "2026-08-18T19:09:32.395Z",
+      "finishedAt": "2026-08-18T19:12:18.574Z",
+      "totalSeconds": 5.4479999999999995,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 4.946,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:32.395Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.502,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:09:37.346Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:14:17.356Z-15562",
+      "startedAt": "2026-08-18T19:14:38.380Z",
+      "finishedAt": "2026-08-18T19:17:00.193Z",
+      "totalSeconds": 2.265,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.75,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:38.380Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.515,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:14:40.135Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:17:38.917Z-18494",
+      "startedAt": "2026-08-18T19:17:58.019Z",
+      "finishedAt": "2026-08-18T19:21:02.711Z",
+      "totalSeconds": 2.4059999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.88,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:17:58.019Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.526,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:17:59.905Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T19:24:02.186Z-28704",
+      "startedAt": "2026-08-18T19:24:20.535Z",
+      "finishedAt": "2026-08-18T19:27:16.933Z",
+      "totalSeconds": 2.9909999999999997,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 2.51,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:20.535Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.481,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T19:24:23.050Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T21:51:34.277Z-29149",
+      "startedAt": "2026-08-18T21:51:47.764Z",
+      "finishedAt": "2026-08-18T21:52:40.511Z",
+      "totalSeconds": 2.588,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 2.07,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:47.764Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.518,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T21:51:49.842Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:10:10.952Z-47879",
+      "startedAt": "2026-08-18T22:10:30.535Z",
+      "finishedAt": "2026-08-18T22:10:36.798Z",
+      "totalSeconds": 2.519,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.927,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:10:30.535Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.592,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:10:32.466Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:20:53.732Z-66754",
+      "startedAt": "2026-08-18T22:21:12.167Z",
+      "finishedAt": "2026-08-18T22:22:21.177Z",
+      "totalSeconds": 2.566,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.978,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:12.167Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.588,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:21:14.150Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:43:24.400Z-99725",
+      "startedAt": "2026-08-18T22:43:40.100Z",
+      "finishedAt": "2026-08-18T22:43:51.399Z",
+      "totalSeconds": 2.481,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.96,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:43:40.100Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.521,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:43:42.067Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T22:50:37.842Z-11239",
+      "startedAt": "2026-08-18T22:50:56.338Z",
+      "finishedAt": "2026-08-18T22:56:46.232Z",
+      "totalSeconds": 2.478,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.923,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:50:56.338Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.555,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T22:50:58.266Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:02:18.470Z-20297",
+      "startedAt": "2026-08-18T23:02:39.374Z",
+      "finishedAt": "2026-08-18T23:03:58.208Z",
+      "totalSeconds": 2.465,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.931,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:39.374Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.534,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:02:41.310Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-18T23:10:19.886Z-36084",
+      "startedAt": "2026-08-18T23:10:36.892Z",
+      "finishedAt": "2026-08-18T23:11:49.801Z",
+      "totalSeconds": 2.165,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.675,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:36.892Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.49,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-18T23:10:38.572Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T11:50:00.987Z-91378",
+      "startedAt": "2026-08-19T11:50:14.485Z",
+      "finishedAt": "2026-08-19T11:55:58.285Z",
+      "totalSeconds": 5.192,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 2.414,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:14.485Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 2.778,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T11:50:16.904Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:29:29.384Z-52258",
+      "startedAt": "2026-08-19T12:29:43.467Z",
+      "finishedAt": "2026-08-19T12:31:23.477Z",
+      "totalSeconds": 2.451,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.906,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:43.467Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.545,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:29:45.378Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:37:31.540Z-66401",
+      "startedAt": "2026-08-19T12:37:46.799Z",
+      "finishedAt": "2026-08-19T12:38:54.306Z",
+      "totalSeconds": 2.6500000000000004,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 2.116,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:46.799Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.534,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:37:48.921Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:40:30.359Z-71330",
+      "startedAt": "2026-08-19T12:40:46.398Z",
+      "finishedAt": "2026-08-19T12:47:00.216Z",
+      "totalSeconds": 2.4509999999999996,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.882,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:46.398Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.569,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:40:48.284Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:58:47.704Z-89232",
+      "startedAt": "2026-08-19T12:59:07.823Z",
+      "finishedAt": "2026-08-19T12:59:12.201Z",
+      "totalSeconds": 4.058,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 4.058,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T12:59:07.823Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T12:59:57.234Z-90262",
+      "startedAt": "2026-08-19T13:00:10.484Z",
+      "finishedAt": "2026-08-19T13:05:10.989Z",
+      "totalSeconds": 2.354,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.812,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:10.484Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.542,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:00:12.301Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:08:45.637Z-97713",
+      "startedAt": "2026-08-19T13:08:59.037Z",
+      "finishedAt": "2026-08-19T13:15:07.994Z",
+      "totalSeconds": 2.59,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 2.034,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:08:59.037Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.556,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:09:01.076Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T13:17:49.314Z-6544",
+      "startedAt": "2026-08-19T13:18:08.819Z",
+      "finishedAt": "2026-08-19T13:25:54.024Z",
+      "totalSeconds": 2.464,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.929,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:08.819Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.535,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T13:18:10.754Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:48:30.402Z-82566",
+      "startedAt": "2026-08-19T15:48:44.472Z",
+      "finishedAt": "2026-08-19T15:52:27.103Z",
+      "totalSeconds": 2.521,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.908,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:44.472Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.613,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:48:46.385Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T15:56:33.318Z-93945",
+      "startedAt": "2026-08-19T15:56:46.708Z",
+      "finishedAt": "2026-08-19T15:59:39.213Z",
+      "totalSeconds": 2.5,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.95,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:46.708Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.55,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T15:56:48.663Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:04:08.053Z-5071",
+      "startedAt": "2026-08-19T16:04:25.489Z",
+      "finishedAt": "2026-08-19T16:16:31.886Z",
+      "totalSeconds": 2.44,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.921,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:25.489Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.519,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:04:27.415Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:24:04.254Z-23948",
+      "startedAt": "2026-08-19T16:24:18.704Z",
+      "finishedAt": "2026-08-19T16:39:14.478Z",
+      "totalSeconds": 5.392,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 4.7,
+          "status": "timedOut",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:18.704Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.692,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:24:24.212Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T16:52:16.872Z-78969",
+      "startedAt": "2026-08-19T16:52:34.905Z",
+      "finishedAt": "2026-08-19T17:07:19.348Z",
+      "totalSeconds": 3.113,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 2.366,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:34.905Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.747,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T16:52:37.277Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T18:25:56.137Z-87479",
+      "startedAt": "2026-08-19T18:26:07.532Z",
+      "finishedAt": "2026-08-19T18:40:07.734Z",
+      "totalSeconds": 2.221,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.641,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:07.532Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.58,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T18:26:09.179Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-08-19T19:16:35.704Z-46154",
+      "startedAt": "2026-08-19T19:16:43.324Z",
+      "finishedAt": "2026-08-19T19:29:01.486Z",
+      "totalSeconds": 1.8820000000000001,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.461,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:43.324Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.421,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-08-19T19:16:44.790Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-09-24T01:19:10.169Z-65117",
+      "startedAt": "2026-09-24T01:19:22.818Z",
+      "finishedAt": "2026-09-24T01:32:00.301Z",
+      "totalSeconds": 1.946,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.496,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:22.818Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.45,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-09-24T01:19:24.319Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-06T07:19:14.257Z-27174",
+      "startedAt": "2026-10-06T07:19:26.381Z",
+      "finishedAt": "2026-10-06T07:32:20.775Z",
+      "totalSeconds": 1.99,
+      "status": "passed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 1.547,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:26.381Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.443,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-06T07:19:27.932Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:29:40.529Z-5467",
+      "startedAt": "2026-10-28T16:29:42.095Z",
+      "finishedAt": "2026-10-28T16:29:58.249Z",
+      "totalSeconds": 0.002,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:42.095Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.001,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T16:29:42.445Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T16:59:53.562Z-87091",
+      "startedAt": "2026-10-28T17:00:31.930Z",
+      "finishedAt": "2026-10-28T17:16:39.903Z",
+      "totalSeconds": 11.388,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 10.947,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:00:31.930Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.441,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:00:43.496Z"
+        }
+      ]
+    },
+    {
+      "runId": "2026-10-28T17:25:55.973Z-27050",
+      "startedAt": "2026-10-28T17:26:34.712Z",
+      "finishedAt": "2026-10-28T17:42:33.346Z",
+      "totalSeconds": 11.394,
+      "status": "failed",
+      "tests": [
+        {
+          "testId": "d1c0a7095d2497e79d34-6291bc5f86d4331f3eff",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › admin invite → outbox link → redeem in a fresh context → weak-password inline negative → 2FA-enroll gate",
+          "durationSeconds": 10.952,
+          "status": "failed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:26:34.712Z"
+        },
+        {
+          "testId": "d1c0a7095d2497e79d34-a036a4616b28d2660677",
+          "title": "chromium › accept-invite.spec.ts › accept-invite — the two-party lifecycle in a browser › negative: a fabricated invite token renders the server rejection inline",
+          "durationSeconds": 0.442,
+          "status": "passed",
+          "retry": 0,
+          "startedAt": "2026-10-28T17:26:46.261Z"
+        }
+      ]
+    }
+  ]
+}
