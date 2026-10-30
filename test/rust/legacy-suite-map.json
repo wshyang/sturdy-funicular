@@ -1,0 +1,1146 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "test/rust/porting-workboard.json",
+  "suites": [
+    {
+      "legacyFile": "test/backend/deno/auth_me_endpoints.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 64,
+      "mappedAssertions": 64,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/auth_me_endpoints.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/auth.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 52,
+      "mappedAssertions": 52,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/auth.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/bootstrap_seed_passwords.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 4,
+      "mappedAssertions": 4,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/bootstrap_seed_passwords.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/health.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 22,
+      "mappedAssertions": 22,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/health.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/idempotency.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 29,
+      "mappedAssertions": 29,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/idempotency.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/sanitize-user.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 10,
+      "mappedAssertions": 10,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/sanitize_user.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/schema_bootstrap.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 12,
+      "mappedAssertions": 12,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/schema_bootstrap.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/sessions.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 55,
+      "mappedAssertions": 55,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/sessions.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/twofa_login_enforcement_toggle.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 16,
+      "mappedAssertions": 16,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/twofa_login_enforcement_toggle.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/twofa.test.tsx",
+      "wave": 1,
+      "track": "foundation",
+      "style": "module",
+      "legacyAssertions": 53,
+      "mappedAssertions": 53,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/twofa.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_app_settings.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 69,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_assets.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 68,
+      "mappedAssertions": 68,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/admin_assets.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_clusters.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 33,
+      "mappedAssertions": 33,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/admin_clusters.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_data.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 37,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_email_templates.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 34,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_organization_overrides.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 54,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_roles_crud.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 27,
+      "mappedAssertions": 27,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/admin_roles_crud.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_systems_update_delete.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 59,
+      "mappedAssertions": 59,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/admin_systems_update_delete.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_systems.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 104,
+      "mappedAssertions": 104,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/admin_systems.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_teams.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 76,
+      "mappedAssertions": 76,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/admin_teams.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/admin_users.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 84,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/admin-capabilities-comprehensive.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 244,
+      "mappedAssertions": 244,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/admin_capabilities_comprehensive.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/app_settings_helper.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 9,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/app_settings_providers.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 43,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/app_settings_seed_drift.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 3,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/asset_search.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 10,
+      "mappedAssertions": 10,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/asset_search.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/auth-admin-roles.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 192,
+      "mappedAssertions": 192,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/auth_admin_roles.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/cross_org_structure.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 40,
+      "mappedAssertions": 40,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/cross_org_structure.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/four_org_access.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 66,
+      "mappedAssertions": 66,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/four_org_access.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/org_dimension.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 71,
+      "mappedAssertions": 71,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/org_dimension.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/org_overrides.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 59,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/pending_actions_admin.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 16,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/role_summary.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 18,
+      "mappedAssertions": 18,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/role_summary.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/system_org_edges.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 68,
+      "mappedAssertions": 68,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/system_org_edges.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/team_admin_plane.test.tsx",
+      "wave": 2,
+      "track": "admin-plane",
+      "style": "module",
+      "legacyAssertions": 25,
+      "mappedAssertions": 25,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/team_admin_plane.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/concurrency.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 14,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/decision_validation.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 32,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/mapping_droplist_repro.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 9,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/owner_delegate_guards.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 21,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/owner.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 89,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/pending_chips_contract.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 27,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/request_content_validation.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 30,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/request_schemas.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 78,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/request_sequences.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 14,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/requests.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 204,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/workflow-machine.test.tsx",
+      "wave": 3,
+      "track": "request-lifecycle",
+      "style": "user-flow",
+      "legacyAssertions": 16,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-asset-inventory.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 12,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-integration.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 44,
+      "mappedAssertions": 43,
+      "status": "partial",
+      "rustModule": "crates/ffs-server/tests/ported/aws_integration.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-localstack-ses.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 13,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-localstack.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 25,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-ssm.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 3,
+      "mappedAssertions": 3,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/aws_ssm.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-tenant-exchange.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 27,
+      "mappedAssertions": 27,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/aws_tenant_exchange.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-tenant-sweep.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 16,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/aws-transport.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 44,
+      "mappedAssertions": 44,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/aws_transport.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/direct-links-email.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 31,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/direct-links.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 25,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/test-secret-autorelease.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 49,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/user_credentials_lifecycle.test.tsx",
+      "wave": 4,
+      "track": "credential-delivery",
+      "style": "user-flow",
+      "legacyAssertions": 31,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/custody_exception_guards.test.tsx",
+      "wave": 5,
+      "track": "physical-custody",
+      "style": "user-flow",
+      "legacyAssertions": 14,
+      "mappedAssertions": 14,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/custody_exception_guards.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/physical_asset_custody.test.tsx",
+      "wave": 5,
+      "track": "physical-custody",
+      "style": "user-flow",
+      "legacyAssertions": 45,
+      "mappedAssertions": 20,
+      "status": "partial",
+      "rustModule": "crates/ffs-server/tests/ported/physical_asset_custody_cases.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/access_log_filters.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 69,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/access-log.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 23,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/audit_all_entities.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 16,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/audit_context.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 17,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/audit_inheritance.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 15,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/audit_sensitivity.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 20,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/audit.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 37,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/cron_worker_contract.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 17,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/cron-jobs.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 27,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/email_templates.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 27,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/generic_audit_timeline.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 22,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/job_runs.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 25,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/pending_actions_digest.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 24,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/sent_notifications_multichannel.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 7,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/sent_notifications_outbox.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 64,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/smtp_send.test.tsx",
+      "wave": 6,
+      "track": "observability-notifications-cron",
+      "style": "module",
+      "legacyAssertions": 17,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/entra_auth.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 53,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/entra_authorize_url.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 11,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/entra_exchange.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 38,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/identity_change.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 98,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/identity_entities.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 40,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/invite.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 73,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/slack_linking.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 48,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/slack-integration.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 76,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/time_bound_delegations.test.tsx",
+      "wave": 7,
+      "track": "integrations-identity",
+      "style": "user-flow",
+      "legacyAssertions": 9,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/authz-matrix.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 6,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/cross_org.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 49,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/cryptographic-failures.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 51,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/dependency_security.test.ts",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 8,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/exceptional-conditions.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 47,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/four_org_matrix.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 12,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/injection.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 40,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/request-validation-fuzz.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 21,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/runtime_mode.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 17,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/security-headers.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 55,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/security-misconfiguration.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 38,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/state-guards.test.tsx",
+      "wave": 8,
+      "track": "security-coverage",
+      "style": "coverage-security",
+      "legacyAssertions": 11,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/aggregate_transactions.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 21,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/demo_seed_contract.test.ts",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 13,
+      "mappedAssertions": 13,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/demo_seed_contract.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/drizzle_bridge.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 10,
+      "mappedAssertions": 10,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/drizzle_bridge.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/generated_schema_representations.test.ts",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 12,
+      "mappedAssertions": 12,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/generated_schema_representations.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/harness/harness.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 44,
+      "mappedAssertions": 44,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/harness.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/jsonb_normalization.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 2,
+      "mappedAssertions": 2,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/jsonb_normalization.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/key_validators.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 45,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/n_plus_one_regression.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 17,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/name_seeds.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 9,
+      "mappedAssertions": 9,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/name_seeds.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/outbound_payload_partition.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 5,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/remediation_facades.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 16,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/request_logger.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 5,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/schema_snapshot_vs_migrations.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 13,
+      "mappedAssertions": 13,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/schema_snapshot_vs_migrations.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/system_actor_rows.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 9,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/utils_validators.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 66,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    },
+    {
+      "legacyFile": "test/backend/deno/uuid_v7.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 3,
+      "mappedAssertions": 3,
+      "status": "ported",
+      "rustModule": "crates/ffs-server/tests/ported/uuid_v7.rs"
+    },
+    {
+      "legacyFile": "test/backend/deno/visibility_derivation.test.tsx",
+      "wave": 9,
+      "track": "cargo-seam",
+      "style": "seam",
+      "legacyAssertions": 15,
+      "mappedAssertions": 0,
+      "status": "pending",
+      "rustModule": null
+    }
+  ]
+}

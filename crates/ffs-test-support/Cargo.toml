@@ -1,0 +1,17 @@
+[package]
+name = "ffs-test-support"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description = "Black-box test harness for the Rust ffs-server binary"
+
+[dependencies]
+anyhow.workspace = true
+reqwest.workspace = true
+serde_json.workspace = true
+sqlx.workspace = true
+tokio.workspace = true
+uuid.workspace = true
+url.workspace = true
+chrono.workspace = true
+rand.workspace = true

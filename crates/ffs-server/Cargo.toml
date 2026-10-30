@@ -1,0 +1,96 @@
+[package]
+name = "ffs-server"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+description = "Firefighter Station — Rust backend (axum + SeaORM)"
+
+[[bin]]
+name = "ffs-server"
+path = "src/main.rs"
+
+[dependencies]
+# Web
+axum.workspace = true
+axum-extra.workspace = true
+tower.workspace = true
+tower-http.workspace = true
+
+# Async
+tokio.workspace = true
+
+# Database
+sea-orm.workspace = true
+sqlx.workspace = true
+
+# Serialization
+serde.workspace = true
+serde_json.workspace = true
+
+# UUID + time
+uuid.workspace = true
+chrono.workspace = true
+
+# Crypto
+pbkdf2.workspace = true
+sha2.workspace = true
+hmac.workspace = true
+hex.workspace = true
+rand.workspace = true
+constant_time_eq.workspace = true
+totp-rs.workspace = true
+qrcodegen-image.workspace = true
+base32.workspace = true
+
+# RSA / authenticated secret wrapping
+rsa.workspace = true
+aes-gcm = "0.10.3"
+
+# Base64
+base64.workspace = true
+regex = "1"
+
+# JWT
+jsonwebtoken.workspace = true
+
+# Email
+lettre.workspace = true
+handlebars.workspace = true
+
+# HTTP client
+reqwest.workspace = true
+
+# Config
+dotenvy.workspace = true
+config.workspace = true
+
+# Logging
+tracing.workspace = true
+tracing-subscriber.workspace = true
+
+# Validation
+validator.workspace = true
+
+# Error handling
+thiserror.workspace = true
+anyhow.workspace = true
+
+# Multipart
+multer.workspace = true
+
+# Async traits
+async-trait.workspace = true
+
+# URL parsing
+url.workspace = true
+
+# Deterministic map
+indexmap.workspace = true
+
+# AWS
+aws-config.workspace = true
+aws-sdk-s3.workspace = true
+aws-sdk-sts.workspace = true
+
+[dev-dependencies]
+ffs-test-support = { path = "../ffs-test-support" }
